@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a22c654a25367bb5",
+        "id": "573e3bc226a4bb9a",
         "type": "tabs",
         "children": [
           {
-            "id": "885257b24d0013ce",
+            "id": "0e2fb6cc5a670ae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♟️Chess/Openings/Caro-Kann Defense.md",
-                "mode": "source",
+                "file": "🤖 AI/Grossary/Data Quality.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e160d4506ddf24d7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♟️Chess/Openings/Caro-Kann Defense.md",
+                "file": "🤖 AI/Grossary/Data Quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "♟️Chess/Openings/Caro-Kann Defense.md",
+                "file": "🤖 AI/Grossary/Data Quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +126,16 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "b3f633de48764875",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🤖 AI/Grossary/Data Quality.md"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -145,29 +154,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "885257b24d0013ce",
+  "active": "0e2fb6cc5a670ae6",
   "lastOpenFiles": [
-    "♟️Chess/Openings/Caro-Kann Defense.md",
+    "🤖 AI/Grossary/Data Modeling.md",
+    "🤖 AI/Grossary/Data Lakehouse .md",
+    "🤖 AI/Grossary/Backpressure for feature stores.md",
+    "🤖 AI/Grossary/AutoML.md",
+    "🤖 AI/Grossary/Versioning (of ML Artifacts).md",
+    "🤖 AI/Grossary/Prompt Tuning.md",
+    "🤖 AI/Grossary/On-Demand Transformation.md",
+    "🤖 AI/Grossary/Model Architecture.md",
+    "🤖 AI/Grossary/Latent Space.md",
+    "🤖 AI/Grossary/Inference Pipeline.md",
+    "🤖 AI/Grossary/Feature Vector.md",
+    "🤖 AI/Grossary/Feature Value.md",
+    "🤖 AI/Grossary/Feature Type.md",
+    "🤖 AI/Grossary/Data Compatibility.md",
+    "🤖 AI/Grossary/DAG Processing Model.md",
+    "🤖 AI/Grossary/Context Window for LLMs.md",
+    "🤖 AI/Grossary/Batch Inference Pipeline.md",
+    "🤖 AI/Grossary/Backfill features.md",
+    "🤖 AI/Grossary/Model Training.md",
+    "🤖 AI/Grossary/Test Set.md",
+    "🤖 AI/🧾LLMs/Large language models.md",
+    "🤖 AI/Grossary/Auto-regressive Models.md",
+    "🤖 AI/Grossary/Vector Database.md",
+    "🤖 AI/Grossary/Validation Set.md",
+    "🤖 AI/Grossary/Upstream.md",
+    "🤖 AI/Grossary/Types of Machine Learning.md",
+    "🤖 AI/Grossary/output",
+    "🤖 AI/Grossary",
+    "🤖 AI/New folder",
+    "🤖 AI/🧾LLMs",
+    "🤖 AI",
     "♟️Chess/Openings",
     "♟️Chess",
-    "📖 PKB (Personal Knowledge Base)/Exploration and Capture.md",
     "LICENSE",
-    "📖 PKB (Personal Knowledge Base)/Risks.md",
-    "Prompt engineering.md",
-    "Possible topics.md",
-    "📖 PKB (Personal Knowledge Base)/Strategy.md",
-    "[.md",
-    "📖 PKB (Personal Knowledge Base)/Reflection and Planning.md",
-    "📖 PKB (Personal Knowledge Base)/Deep Dive and Research.md",
-    "📖 PKB (Personal Knowledge Base)/Review and Prioritize.md",
-    "📖 PKB (Personal Knowledge Base)/Organization and Tagging.md",
-    "📖 PKB (Personal Knowledge Base)/3-2-1 Reading Strategy.md",
-    "📖 PKB (Personal Knowledge Base)/SQ3R Technique.md",
-    "📖 PKB (Personal Knowledge Base)/RAPID Information Processing.md",
-    "📖 PKB (Personal Knowledge Base)/Saccades and Fixations.md",
-    "📖 PKB (Personal Knowledge Base)/Positional Priming.md",
-    "📖 PKB (Personal Knowledge Base)/Foveal and Peripheral Vision.md",
-    "Chunking.md",
     "📖 PKB (Personal Knowledge Base)"
   ]
 }

@@ -18,7 +18,7 @@ orientation: black
 annotations: Hg4
 ```
 
-
+If white Bd3, then Bxd3, Qxd3
 ```chessboard
 fen: rn1qkbnr/pp2pppp/2p5/3pP3/3P4/3Q4/PPP2PPP/RNB1K1NR b KQkq - 0 5
 orientation: black

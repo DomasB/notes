@@ -1,0 +1,4 @@
+Theory of mind (ToM) is considered the ability to impute unobservable mental states in other sentient beings (or agents). [Theory-of-mind (ToM) tasks](https://arxiv.org/pdf/2304.11490.pdf) require understanding an agents' beliefs, goals, and mental states. ToM tasks are considered the goal standard for evaluating common-sense reasoning involving humans.  Some researchers have speculated that recent LLMs, such as GPT-4, may have reached significant levels of ability to solve ToM tasks.  [Kosinski](https://arxiv.org/abs/2302.02083) showed that the LLM GPT-4 could solve 95% of a set of  40 classic false-belief tasks widely used to test ToM in humans. This compared to GPT-3 that could only solve 40% of false-belief tasks-performance - comparable with 3.5-year-old children.
+
+Kosinski showed the importance of crafting good prompts - “appropriate prompting enhances LLM ToM reasoning, and they underscore the context-dependent nature of LLM cognitive capacities”.
+

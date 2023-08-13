@@ -1,0 +1,2 @@
+[LangChain](https://github.com/hwchase17/langchain) is an open source framework, for Python or Javascript, designed to simplify the writing of applications using LLMs. LangChain enables developers to design templates for prompts for LLMs, like GPT-4, and fill in those templates with external data, such data that comes from a vector database or feature store. Examples of applications built with LangChain include document analysis and summarization, chatbots, code analysis, and source code generation.
+
