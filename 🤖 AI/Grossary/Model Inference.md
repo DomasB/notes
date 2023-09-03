@@ -58,3 +58,10 @@ You typically replicate the model inference servers and load balance input reque
 
 You can increase the number of workers in your stream processing application, as each worker will typically have its own embedded model and will make predictions locally within the worker. If you are making predictions over changes in windows of data, then predictions are made over data synchronized from multiple workers. In this case, you will need to scale up the workers.
 
+
+LLM Tags:  #inference, #ml, #modelprediction #kafka 
+LLM Tags:  #modelinference #onlinelearning #mlpipeline #prediction
+LLM Tags:  #streamprocessing #modelinference
+LLM Tags:  #streamprocessing #modelinference #predictiveanalytics #anomaly-detection 
+LLM Tags:  #ml #deeplearning #gpu #online-inference
+LLM Tags:  #streamprocessing #scalingoutmodelinference #gpudeeplearning

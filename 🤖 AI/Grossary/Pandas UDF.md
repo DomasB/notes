@@ -18,3 +18,8 @@ You write your UDF and add the *pandas\_udf* decorator provided by PySpark. The 
 2. **Flexibility**: Pandas UDFs can be used in various environments, including Spark feature pipelines, Spark batch inference, and Python-based [online inference pipelines](https://www.hopsworks.ai/dictionary/online-inference-pipeline) (as supported by [on-demand features](https://www.hopsworks.ai/dictionary/on-demand-features) in the [Hopsworks feature store](https://www.hopsworks.ai/the-python-centric-feature-store)). This versatility makes it easier to integrate Pandas UDFs across different stages of a machine learning pipeline.
 3. **Familiarity**: For data scientists and engineers who are already familiar with the Pandas library, working with Pandas UDFs is a natural extension of their existing skill set. This reduces the learning curve and makes it easier to implement custom feature transformations.
 4. **Expressiveness**: Pandas provides a rich set of data manipulation functions, allowing users to implement complex feature transformations with just a few lines of code. This expressiveness can simplify the feature engineering process and reduce the time spent on implementing custom functions.
+
+LLM Tags:  #pandasudf #py4j #pyspark
+LLM Tags:  #feature-engineering
+LLM Tags:  #flexibility #pandaudfs #sparkpipelines #onlinedataprocessing
+LLM Tags:  #data-analysis #pandas 

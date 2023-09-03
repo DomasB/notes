@@ -6,5 +6,8 @@ ELT stands for Extract, Load, and Transform of data. ELT is a process whereby a 
 **Where is ELT important in ML systems?**
 -----------------------------------------
 
-ELT is often found in [feature pipelines](https://www.hopsworks.ai/dictionary/feature-pipeline) that extract data from existing data stores, load it into a data warehouse or [feature store](https://www.hopsworks.ai/dictionary/feature-store), and then transform the raw data into [features](https://www.hopsworks.ai/dictionary/feature) in the data warehouse or feature store. 
+ELT is often found in [[Feature|feature pipelines](https://www.hopsworks.ai/dictionary/feature-pipeline) that extract data from existing data stores, load it into a data warehouse or [feature store](https://www.hopsworks.ai/dictionary/feature-store), and then transform the raw data into [features]] in the data warehouse or feature store. 
 
+
+LLM Tags:  #ELT #data-warehouse #SQL #ETL #ml
+LLM Tags:  #data-warehouse #transformations, #pipelines

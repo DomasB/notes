@@ -13,3 +13,6 @@ Lakehouses are often used to store the raw data used to compute features. They p
 
 Apache Hudi is supported by [AWS](https://aws.amazon.com/), [Hopsworks](https://www.hopsworks.ai/the-python-centric-feature-store), and [Onehouse](https://www.onehouse.ai/). Delta Lake is supported by [Databricks](https://www.databricks.com/). Apache Iceberg is supported by [Snowflake](https://www.snowflake.com/en/) and [AWS](https://aws.amazon.com/). Spark is popular as a data parallel processing engine to perform [ETL](https://www.hopsworks.ai/dictionary/etl) operations on Data Lakehouses.
 
+
+LLM Tags:  #data-warehouse 
+LLM Tags:  #data-analysis

@@ -50,3 +50,8 @@ The most well-known LLMs released by OpenAI (ChatGPT, GPT-4) are proprietary mod
 
 There are now [hundreds of open-source LLMs available](https://github.com/Hannibal046/Awesome-LLM). Currently, the most powerful is Llama-2, released by Meta in July 2023, with 70 billion parameters. Open-source LLMs have the advantage over proprietary models that they can be fine-tuned for task-specific goals. Organizations may have valuable proprietary data (such as their customer help data or internal documentation) that they can leverage to build custom LLMs with fine-tuning. Open-source LLMs also enable organizations to deploy models within their own data centers or cloud accounts, so sensitive data will not leave their network. However, the largest open-source LLMs are still an order of magnitude smaller than the largest proprietary LLMs, so their performance is still not as good for general purpose language tasks.
 
+
+LLM Tags:   #ml, #naturallanguageprocessing
+LLM Tags:  #nlp #ml #prompt-engineering #in-context-learning
+LLM Tags:  #pre-training #fine-tuning  #private-data #huggingface
+LLM Tags:  #llm #ChatGPT  #paramaters #memory #weights #openai  #open-source  

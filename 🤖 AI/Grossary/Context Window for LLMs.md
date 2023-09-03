@@ -16,3 +16,5 @@ The costs increase of larger context windows appear to increase quadratically as
 
 Another challenge is that, based on [Liu et al](https://arxiv.org/abs/2307.03172), it appears that adding relevant context at the beginning or the end of a prompt improves the performance of LLMs, compared to including the relevant context in the middle of the prompt. It is unclear how this observation will affect larger context windows.
 
+
+#context-window #llm #prompts #comprehension #nlp 

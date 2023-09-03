@@ -6,7 +6,7 @@ Model-independent [data transformations](https://www.hopsworks.ai/dictionary/dat
 **Why are model-independent transformations important?**
 --------------------------------------------------------
 
-By refactoring your feature engineering steps into model-independent and [model-dependent transformations](https://www.hopsworks.ai/dictionary/model-dependent-transformations), you can write [feature pipelines](https://www.hopsworks.ai/dictionary/feature-pipeline) that produce features that can be reused across many models. This enables the [feature store](https://www.hopsworks.ai/dictionary/feature-store) to become a centralized data warehouse of reusable features that can be used across different models and projects. Every time a [feature](https://www.hopsworks.ai/dictionary/feature) is reused, it reduces the number of [data pipelines](https://www.hopsworks.ai/dictionary/data-pipelines) that an organization has to develop and operate, saving time and costs. The more [features are reused](https://www.hopsworks.ai/dictionary/feature-reuse), the higher quality the features will become, as reuse promotes consistency, team collaboration, and the testing of features.
+By refactoring your feature engineering steps into model-independent and [model-dependent transformations](https://www.hopsworks.ai/dictionary/model-dependent-transformations), you can write [[Feature Pipeline|feature pipelines]] that produce features that can be reused across many models. This enables the [feature store](https://www.hopsworks.ai/dictionary/feature-store) to become a centralized data warehouse of reusable features that can be used across different models and projects. Every time a [[Feature|feature]] is reused, it reduces the number of [data pipelines](https://www.hopsworks.ai/dictionary/data-pipelines) that an organization has to develop and operate, saving time and costs. The more [features are reused](https://www.hopsworks.ai/dictionary/feature-reuse), the higher quality the features will become, as reuse promotes consistency, team collaboration, and the testing of features.
 
 **What are examples of model-independent transformations?**
 -----------------------------------------------------------
@@ -43,8 +43,8 @@ Various machine-learning methods can also be used to transform raw data into mor
 Here is a short Python snippet showcasing an aggregation for four pre-defined age groups:
 
 
-```
- import pandas as pd
+```python
+import pandas as pd
 
 # Sample data
 data = {'age': [22, 35, 42, 16, 53, 38]}
@@ -62,3 +62,11 @@ print("Age group data:", df)
 ```
 This example demonstrates how to aggregate the age data into age groups using the Pandas library in Python. The result is a DataFrame that includes an additional column with the age group assignments for each individual.
 
+
+LLM Tags:  #data-transformation, #feature-engineering, #modelindpt
+LLM Tags:  #AI #data-pipeline #featurere-use #modelindependent #modeldependenttransformations #refactoring  #hopsworksai
+LLM Tags:  #data-analysis, #ml, #transformations
+LLM Tags:  #streammapping #timestreamanalysis #on-demand-features #nlp 
+LLM Tags:  #audio, #ml, #webscraping
+LLM Tags:  #dimensionalityreduction #modelindependent  #filtering #binning #embeddings
+LLM Tags:  #pandas, #data-analysis, #pythonprogramming

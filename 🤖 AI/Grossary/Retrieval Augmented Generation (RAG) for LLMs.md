@@ -16,3 +16,6 @@ What data systems are used for RAG LLMs?
 
 Popular serverless vector databases and feature stores are Pinecone and [Hopsworks](https://app.hopsworks.ai) that provide time-unlimited free tiers. Chroma is often used as an embedded vector database. 
 
+
+LLM Tags:  #llm, #retrievalaugmentedgeneration, #llm
+LLM Tags:  #RAGLLMs, #context, #vector-database

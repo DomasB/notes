@@ -1,3 +1,6 @@
+---
+Aliases: [ "#vector-database" ]
+---
 **What is a vector database in ML?**
 ------------------------------------
 
@@ -64,3 +67,12 @@ Depending on your requirements, you typically need to make a choice to favor an 
 
 ‍
 
+#vector-database 
+LLM Tags: #ml #embeddings #similaritysearch
+LLM Tags:  #AI, #similaritysearch, #personalization, #recommendationsystems
+LLM Tags:   #similaritysearch
+LLM Tags:  #ml  #hnsw #faissivf #scann
+LLM Tags:  #performanceevaluation
+LLM Tags:  #benchmarking #neuralnetworks
+LLM Tags:  
+#neuralnetworks #algorithm-selection #tradeoff

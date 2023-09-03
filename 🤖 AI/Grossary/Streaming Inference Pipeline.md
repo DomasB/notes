@@ -8,3 +8,6 @@
 
 **‍**If you have a non-interactive system that needs to make predictions in near real-time, then a streaming inference pipeline might be the best choice. For example, an IoT device might stream measurements to a Kafka topic, from where a streaming inference pipeline makes continual predictions about the IoT measurements and writes the results to different Kafka topic, from where an alerting component consumes events and takes actions if needed. In contrast, an [online inference pipeline](https://www.hopsworks.ai/dictionary/online-inference-pipeline) is a request/response architecture for interactive systems.
 
+
+LLM Tags:  #streaming, #inferencepipeline
+LLM Tags:  #streaming #inference #IoT #kafka 

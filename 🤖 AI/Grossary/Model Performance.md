@@ -12,3 +12,6 @@ There can be many reasons for poor model performance, but some of the key things
 * [**Data leakage**](https://www.hopsworks.ai/dictionary/data-leakage) - where the training data is polluted with test data or future data;
 * **Model complexity** - has the model too many parameters compared to the number of training samples (a rule-of-thumb is that you should have 1 training sample for each model parameter/weight for DNNs);
 * **Data quality** - is the data quality high enough?
+
+LLM Tags:  #ml #modelperformance #overfitting
+LLM Tags:  #data-leakage, #modelcomplexity

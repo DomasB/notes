@@ -14,4 +14,4 @@
 4. **Table of Contents or Index**
 5. **Metadata and Attributes**: In a larger PKB, they may add metadata or attributes to each note, such as creation date, author, relevance level, or status, to enable advanced sorting and filtering.
 
-#PKB
+#PKB #tagging #folder-structure #cross-linking

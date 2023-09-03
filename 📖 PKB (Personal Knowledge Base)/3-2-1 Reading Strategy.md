@@ -6,3 +6,4 @@ Finally, ask:
 - "What is one thing I still have a question about?"
 
 This approach encourages critical thinking and engagement with the material.
+LLM Tags:  #critical-thinking #readingstrategy #learningapproach

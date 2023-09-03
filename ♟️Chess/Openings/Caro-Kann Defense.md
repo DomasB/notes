@@ -24,3 +24,4 @@ fen: rn1qkbnr/pp2pppp/2p5/3pP3/3P4/3Q4/PPP2PPP/RNB1K1NR b KQkq - 0 5
 orientation: black
 annotations:
 ```
+#chess #variation #black

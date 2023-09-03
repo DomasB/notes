@@ -10,3 +10,6 @@
 
 **‍**Feature types determine how feature values can be encoded and represented in a machine learning model. Different types of features require different types of encoding and processing, and using the wrong encoding for a feature type can lead to inaccurate or suboptimal [model performance](http://www.hopsworks.ai/dictionary/model-performance).
 
+
+LLM Tags:  #ml, #feature, #encoding
+LLM Tags:  #encoding #feature-type #representation #modelperformance

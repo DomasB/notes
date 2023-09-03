@@ -11,8 +11,8 @@ In [feature engineering](https://www.hopsworks.ai/dictionary/feature-engineering
 Below is an example of feature logic in Python for creating a feature that represents the number of words in a text document:
 
 
-```
- import pandas as pd
+```python
+import pandas as pd
 import numpy as np
 
 def word_count_feature(text_column):
@@ -34,3 +34,6 @@ data['word_count'] = word_count_feature(data['text_column'])
 ```
 In this example, the **word\_count\_feature** function takes a column of text data as input, splits the text into words, and returns a count of the number of words in each document. The resulting [feature values](http://www.hopsworks.ai/dictionary/feature-value) are then added to the original dataset as a new column. Later, you could write those values as part of a Pandas DataFrame to a feature group.
 
+#feature 
+LLM Tags:  #featurization, #data-processing, #frameworks, #specializedtoolkits
+LLM Tags:  #programming #data-analysis #pythonprogramming #textprocessing

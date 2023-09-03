@@ -1,7 +1,7 @@
 **What is a model registry?**
 -----------------------------
 
-A model registry is a version control system for models that provides APIs to store and retrieve models and [model-related artifacts](https://www.hopsworks.ai/dictionary/ml-artifacts). A model registry stores different versions of models, including metadata about their performance metrics, author, creation date, dependencies, usage, and lineage (training experiment code/[hyperparameters](https://www.hopsworks.ai/dictionary/hyperparameter) and /[training data](https://www.hopsworks.ai/dictionary/training-data)).
+A model registry is a version control system for models that provides APIs to store and retrieve models and [model-related artifacts](https://www.hopsworks.ai/dictionary/ml-artifacts). A model registry stores different versions of models, including metadata about their performance metrics, author, creation date, dependencies, usage, and lineage (training experiment code/[hyperparameters](https://www.hopsworks.ai/dictionary/hyperparameter) and /[[Training Data|training data]]).
 
 **When is a model registry needed?**
 ------------------------------------
@@ -16,8 +16,8 @@ Some model registries provide a unified API for storing and retrieving models an
 Example code for registering a Scikit-Learn model to Hopsworks is shown below:
 
 
-```
- from hsml.schema import Schema
+```Python
+from hsml.schema import Schema
 from hsml.model_schema import ModelSchema
 
 input_schema = Schema(X_train)  # take schema from train-set features DataFrame
@@ -32,3 +32,8 @@ fraud_model = mr.sklearn.create_model("the_model",
 fraud_model.save('the_model')
 
 ```
+
+LLM Tags:  #modelregistry,  #api, #artifact, #metadatamgmt
+LLM Tags:  #modelregistry #mlpipeline #governance #trainingpipeline #inferencepipeline #versioning #caching #collaboration #organization #mlop
+LLM Tags:  #hobbies, #maths, #ml
+LLM Tags:  #ml, #neuralnetworks, #deeplearning

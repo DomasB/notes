@@ -7,5 +7,7 @@ A model architecture is the choice of a machine learning algorithm along with th
 **What type of model architecture should I use for my prediction problem?**
 ---------------------------------------------------------------------------
 
-**‍**The choice of the model architecture depends on the type of problem being solved, the size and complexity of the dataset, and the available computing resources. Popular model architectures include decision trees for smaller datasets, and deep neural networks for larger datasets, including feedforward neural networks, convolutional neural networks, and transformers. The architecture of a machine learning model is a critical factor that determines its accuracy and performance, and it is often optimized through a process called [hyperparameter tuning](https://www.hopsworks.ai/dictionary/hyperparameter-tuning).
+**‍**The choice of the model architecture depends on the type of problem being solved, the size and complexity of the dataset, and the available computing resources. Popular model architectures include decision trees for smaller datasets, and deep neural networks for larger datasets, including feedforward neural networks, convolutional neural networks, and transformers. The architecture of a machine learning model is a critical factor that determines its accuracy and performance, and it is often optimized through a process called [[Hyperparameter Tuning|hyperparameter tuning]].
 
+
+LLM Tags:  #ml #modelarchitectures #hyperparameter 

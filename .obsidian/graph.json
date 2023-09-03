@@ -1,22 +1,37 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"🤖 AI\" kafka",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"🤖 AI\"",
+      "color": {
+        "a": 1,
+        "rgb": 5404128
+      }
+    },
+    {
+      "query": "path:\"📖 PKB (Personal Knowledge Base)\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 0.891145833333333,
+  "lineSizeMultiplier": 1.18463541666667,
+  "collapse-forces": false,
+  "centerStrength": 0.591145833333333,
+  "repelStrength": 20,
+  "linkStrength": 0.747395833333333,
+  "linkDistance": 500,
+  "scale": 0.2386771726960554,
   "close": false
 }

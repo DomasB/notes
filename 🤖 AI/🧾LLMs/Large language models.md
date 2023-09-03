@@ -11,3 +11,5 @@
 6. **Proprietary LLMs:** Proprietary LLMs, like OpenAI's ChatGPT and GPT-4, are accessed via UI or APIs. They can't be downloaded, and customization is limited. Legal and privacy concerns might restrict their use.
 
 7. **Open-Source LLMs:** Numerous open-source LLMs exist. Llama-2, the most powerful, has 70 billion parameters. They can be fine-tuned for specific tasks using proprietary data. This type of LLM offers control over deployment in data centers or clouds, ensuring data privacy. However, their performance is still somewhat inferior to proprietary LLMs for general language tasks due to their smaller size.
+LLM Tags:  #ml #gpu #prompts #in-context-learning
+LLM Tags:  #llm #nlp #chatbots

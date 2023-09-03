@@ -23,8 +23,8 @@ Consider a feature transformation where the raw data is scaled using the mean an
 **Feature Pipeline:** 
 
 
-```
- import numpy as np
+```Python
+import numpy as np
 
 # Training data
 data = np.array([1, 2, 3, 4, 5])
@@ -40,8 +40,8 @@ scaled_data = (data - mean) / std
 **Online inference pipeline:**
 
 
-```
- import numpy as np
+```Python
+import numpy as np
 
 # New data for inference
 new_data = np.array([6, 7, 8, 9, 10])
@@ -56,3 +56,8 @@ scaled_new_data = (new_data - new_mean) / new_std
 ```
 In this example, the feature transformation at the inference stage incorrectly calculates the mean and standard deviation from the new data instead of using the values from the training dataset. This discrepancy leads to training/inference skew and can negatively impact the model's performance during inference.
 
+
+LLM Tags:  #ml, #offline_online_skew
+LLM Tags:  #feature-skew, #on-demand-transformation, #traininginferenceskew, #modperpform
+LLM Tags:  #training-inference skew, #feature pipeline, #online inference
+LLM Tags:  #transformation_error, #skewness, #inference

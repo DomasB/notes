@@ -15,3 +15,6 @@ Not all machine learning projects require model deployment. For instance, if you
 
 However, if your project involves real-time predictions, continuous data streams, or requires online interaction with users or other systems, then deploying your model becomes essential. Examples of such scenarios include recommendation engines, fraud detection systems, and real-time anomaly detection in IoT devices. 
 
+
+LLM Tags:  #modeldeployment #onlinemodeling #inference #network
+LLM Tags:  #ml, #deployment

@@ -1,7 +1,7 @@
 **What are model dependent transformations?**
 ---------------------------------------------
 
-A model-dependent transformation is a [transformation](https://www.hopsworks.ai/dictionary/transformation) of a [feature](https://www.hopsworks.ai/dictionary/feature) that is specific to one model, and is consistently applied in [training](https://www.hopsworks.ai/dictionary/training-pipeline) and [inference pipelines](https://www.hopsworks.ai/dictionary/inference-pipeline). It is typically an [encoding](https://www.hopsworks.ai/dictionary/encoding-for-features) of the [feature value](http://www.hopsworks.ai/dictionary/feature-value) that uses the training dataset as the reference window when computing the encoding. There is a direct benefit of having model-dependent transformations decoupled from [model-independent transformations](https://www.hopsworks.ai/dictionary/model-independent-transformations) in that it allows for flexibility in [feature engineering](https://www.hopsworks.ai/dictionary/feature-engineering), making it easier to adapt and optimize features for different models without affecting the underlying raw data.
+A model-dependent transformation is a [transformation](https://www.hopsworks.ai/dictionary/transformation) of a [[Feature|feature]] that is specific to one model, and is consistently applied in [training](https://www.hopsworks.ai/dictionary/training-pipeline) and [inference pipelines](https://www.hopsworks.ai/dictionary/inference-pipeline). It is typically an [encoding](https://www.hopsworks.ai/dictionary/encoding-for-features) of the [feature value](http://www.hopsworks.ai/dictionary/feature-value) that uses the training dataset as the reference window when computing the encoding. There is a direct benefit of having model-dependent transformations decoupled from [model-independent transformations](https://www.hopsworks.ai/dictionary/model-independent-transformations) in that it allows for flexibility in [feature engineering](https://www.hopsworks.ai/dictionary/feature-engineering), making it easier to adapt and optimize features for different models without affecting the underlying raw data.
 
 **Why are model dependent transformations important?**
 ------------------------------------------------------
@@ -34,8 +34,8 @@ It is not uncommon when building ML models to apply various algorithms on raw, 
 Here is a short Python snippet showing how to standardize all of the features in a train set:
 
 
-```
- from sklearn.preprocessing import StandardScaler
+```Python
+from sklearn.preprocessing import StandardScaler
 
 # create an instance of the StandardScaler object
 scaler = StandardScaler()
@@ -57,3 +57,11 @@ This example demonstrates how to standardize numerical data by applying the [sta
 
 Where u is the mean of the train set samples, and s is the standard deviation of the train set samples.
 
+
+LLM Tags:  #transformations, #modeldependence
+LLM Tags:  #ml, #transformation, #encoding, #trainingpipeline, #inferencepipeline
+LLM Tags:  #modeldependence, #transformations, #data-compatibility
+LLM Tags:  #encoding, #normalization
+LLM Tags:  #data-processing #ml #algorithm-selection
+LLM Tags:  #data-analysis #preprocessing #standardization #transformation #sklearn
+LLM Tags:  #data-processing #scaling #normalization

@@ -8,3 +8,5 @@
 
 **‍**If you need very fresh [precomputed features](http://www.hopsworks.ai/dictionary/precomputed-features) in your feature store, a streaming feature pipeline (written in a per-event stream processing framework, such as Apache Flink) will create features from events in your real-time message bus that are only a few seconds old.
 
+
+LLM Tags:  #streamingpipeline #realtimestreamprocessing #feature-store

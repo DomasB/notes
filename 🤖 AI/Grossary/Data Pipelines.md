@@ -6,3 +6,5 @@ Data pipelines are orchestrated programs that move data from one system to anoth
 Without data pipelines (i.e., batch or streaming feature pipelines) machine learning systems can only work on static data and a model cannot be automated to generate value through automating predictions on new (inference) data. Compared to batch data pipelines, streaming data pipelines can produce fresher data (features), which is important for [real-time ML](https://www.hopsworks.ai/dictionary/real-time-machine-learning).
 
 ![](https://assets.website-files.com/618399cd49d125734c8dec95/6438005bdb85a4c3de771494_SS5okSODBwMPVDKfNh3JkoH6u8-3sdwEq8yzVksWExqexQUV9gWTkVbbgaITWOjUucD8Qlzv6AC2WSnlR4esUTEdEWAf7d0PjtCmGxZGvPTvqG936HSq_uPWOABhlu8asKRMDFEklAj0iy5Nnn91Pg.png)
+LLM Tags:  #data-pipeline #ETL #ELT #transformation 
+LLM Tags:  #ml, #streamingdatapipelines

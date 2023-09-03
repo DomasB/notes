@@ -20,4 +20,4 @@
 	- **Applicability and Usability**: Select content that is practical and actionable, offering tangible.
 	- **Tagging and Organization**: Label curated content with relevant tags and categories for easy retrieval and efficient navigation within the PKB.
 
-#PKB 
+#PKB #curation #goals 

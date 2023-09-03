@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "573e3bc226a4bb9a",
+        "id": "f25e1508fe54322a",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2fb6cc5a670ae6",
+            "id": "7309c7ed650966f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤖 AI/Grossary/Data Quality.md",
-                "mode": "preview",
+                "file": "🤖 AI/Grossary/Kafka (database).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47c07a9b0a020b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travel/Thailand/Chiang Mai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8679d86f84e12ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travel/Thailand/Koh Tao.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01e6cea7c2be34f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travel/Thailand/Chiang Rai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dec2b0636f2b840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travel/Thailand/Chiang Rai.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PKB",
+                "query": "tag:auto-regression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤖 AI/Grossary/Data Quality.md",
+                "file": "Travel/Thailand/Chiang Mai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤖 AI/Grossary/Data Quality.md",
+                "file": "Travel/Thailand/Chiang Mai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +163,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": false
               }
             }
@@ -133,16 +182,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤖 AI/Grossary/Data Quality.md"
+                "file": "Travel/Thailand/Chiang Mai.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,34 +203,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e2fb6cc5a670ae6",
+  "active": "47c07a9b0a020b2b",
   "lastOpenFiles": [
-    "🤖 AI/Grossary/Data Modeling.md",
-    "🤖 AI/Grossary/Data Lakehouse .md",
-    "🤖 AI/Grossary/Backpressure for feature stores.md",
-    "🤖 AI/Grossary/AutoML.md",
-    "🤖 AI/Grossary/Versioning (of ML Artifacts).md",
-    "🤖 AI/Grossary/Prompt Tuning.md",
-    "🤖 AI/Grossary/On-Demand Transformation.md",
-    "🤖 AI/Grossary/Model Architecture.md",
-    "🤖 AI/Grossary/Latent Space.md",
-    "🤖 AI/Grossary/Inference Pipeline.md",
-    "🤖 AI/Grossary/Feature Vector.md",
-    "🤖 AI/Grossary/Feature Value.md",
-    "🤖 AI/Grossary/Feature Type.md",
-    "🤖 AI/Grossary/Data Compatibility.md",
-    "🤖 AI/Grossary/DAG Processing Model.md",
-    "🤖 AI/Grossary/Context Window for LLMs.md",
-    "🤖 AI/Grossary/Batch Inference Pipeline.md",
-    "🤖 AI/Grossary/Backfill features.md",
-    "🤖 AI/Grossary/Model Training.md",
-    "🤖 AI/Grossary/Test Set.md",
-    "🤖 AI/🧾LLMs/Large language models.md",
+    "Travel/Thailand/Chiang Rai.md",
+    "Travel/Thailand/Chiang Mai.md",
+    "Travel/Thailand/Koh Tao.md",
+    "Travel/Thailand/Plan.md",
+    "Travel/Thailand/Doi Inthanon National Park.md",
+    "Travel/Thailand/Bangkok.md",
     "🤖 AI/Grossary/Auto-regressive Models.md",
-    "🤖 AI/Grossary/Vector Database.md",
-    "🤖 AI/Grossary/Validation Set.md",
-    "🤖 AI/Grossary/Upstream.md",
+    "Travel/Thailand",
+    "vector-database.md",
+    "Untitled.md",
+    "Travel",
+    "🤖 AI/Grossary/Online-Offline Feature Store Consistency.md",
+    "🤖 AI/Grossary/Kafka (database).md",
+    "🤖 AI/Grossary/Idempotent ML Pipelines.md",
+    "🤖 AI/Grossary/Model Inference.md",
+    "🤖 AI/Grossary/LLMs - Large Language Models.md",
     "🤖 AI/Grossary/Types of Machine Learning.md",
+    "🤖 AI/Grossary/LangChain.md",
+    "🤖 AI/Grossary/Feature Logic.md",
+    "🤖 AI/Grossary/RLHF - Reinforcement Learning from Human Feedback.md",
+    "🤖 AI/Grossary/Feature Reuse.md",
+    "🤖 AI/Grossary/Dimensional Modeling and Feature Stores.md",
+    "🤖 AI/Grossary/Feature Vector.md",
+    "🤖 AI/Grossary/Feature Pipeline.md",
+    "🤖 AI/Grossary/Feature Type.md",
+    "🤖 AI/Grossary/Time travel (for features).md",
+    "🤖 AI/Grossary/Feature Store.md",
+    "🤖 AI/Grossary/Backfill training data.md",
     "🤖 AI/Grossary/output",
     "🤖 AI/Grossary",
     "🤖 AI/New folder",
@@ -189,7 +240,6 @@
     "🤖 AI",
     "♟️Chess/Openings",
     "♟️Chess",
-    "LICENSE",
-    "📖 PKB (Personal Knowledge Base)"
+    "LICENSE"
   ]
 }

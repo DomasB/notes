@@ -11,3 +11,6 @@ Training-inference skew is a discrepancy that arises when the data preprocessing
 1. **Model performance**: Discrepancies between training and inference pipelines can result in the model performing poorly when deployed, even if it performed well during training and validation.
 2. **Debugging and troubleshooting**: Training-inference skew can be challenging to identify and diagnose, as the issues often stem from subtle differences in the implementation of data preprocessing or feature transformations.
 3. **Reproducibility**: Ensuring that the same data preprocessing and feature transformation steps are used in both pipelines is essential for achieving reproducible results.
+
+LLM Tags:  #training, #inference, #skew
+LLM Tags:  #traininginferenceskew, #modelperformance, #debuggingtroubleshooting

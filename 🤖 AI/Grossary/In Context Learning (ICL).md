@@ -5,9 +5,9 @@ In-context learning (ICL) learns a new task from a small set of examples present
 **How to Engineer Prompts for In-Context Learning**
 ---------------------------------------------------
 
-Imagine a recipe generation service where you enter what ingredients you have available, and ask the service to generate a recipe for you. One way to implement this service would be with prompts prefixed with example recipes before your text with your available ingredients is finally added to the prompt. For this, you may have thousands of recipes indexed in a [VectorDB](https://www.hopsworks.ai/dictionary/vector-database). When the query arrives, you use the ingredients to look up the most relevant recipes in the VectorDB, then paste them in at the start of the prompt, and then write the list of available ingredients, and finally, ask your LLM to generate a prompt. This is an example of [retrieval-augmented generation for LLMs](https://www.hopsworks.ai/dictionary/retrieval-augmented-llm).
+Imagine a recipe generation service where you enter what ingredients you have available, and ask the service to generate a recipe for you. One way to implement this service would be with prompts prefixed with example recipes before your text with your available ingredients is finally added to the prompt. For this, you may have thousands of recipes indexed in a [[Vector Database|VectorDB]]. When the query arrives, you use the ingredients to look up the most relevant recipes in the VectorDB, then paste them in at the start of the prompt, and then write the list of available ingredients, and finally, ask your LLM to generate a prompt. This is an example of [retrieval-augmented generation for LLMs](https://www.hopsworks.ai/dictionary/retrieval-augmented-llm).
 
-The above service follows one piece of advice on prompt engineering - add the most relevant context at the beginning or the end of a prompt to improve the performance of LLMs. [Researchers have shown](https://arxiv.org/abs/2307.03172) that adding relevant context (i.e., the question of what recipe to generate) in the middle of the prompt leads to worse performance.
+The above service follows one piece of advice on prompt engineering - **add the most relevant context at the beginning or the end of a prompt to improve the performance of LLMs**. [Researchers have shown](https://arxiv.org/abs/2307.03172) that adding relevant context (i.e., the question of what recipe to generate) in the middle of the prompt leads to worse performance. ^408512
 
 How many example recipes can you add to your prompt? That depends on the context window size for your model. GPT-4 can include ~50 pages of input text (32KB of data), and inference time slows down with larger input prompts.
 
@@ -41,3 +41,5 @@ In general, in current LLMs, a well constructed zero-shot prompt can probably ma
 
 ‍
 
+
+#fine-tuning #in-context-learning #vector-database   #context-window #promptengineering #llm #recipes #in-context-learning #llm #transformer #pre-training #diversity #few-shot #zero-shot

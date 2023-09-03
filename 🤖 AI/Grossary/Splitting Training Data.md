@@ -1,7 +1,7 @@
 **What does splitting training data for ML mean?**
 --------------------------------------------------
 
-When you train a model, you would like your model to generalize and perform well on new, unseen data. You don’t want your model to overfit to [training data](https://www.hopsworks.ai/dictionary/training-data). A popular way to have an unbiased approach to measuring how well your model generalizes is to split your training data into [train](https://www.hopsworks.ai/dictionary/train-training-set), [validation](https://www.hopsworks.ai/mlops-dictionary#:~:text=V-,Validation%20Set,-The%20validation%20set), and [test](https://www.hopsworks.ai/mlops-dictionary#:~:text=T-,Test%20Set,-The%20test%20set) sets. They are sets because examples should be unique to each set, otherwise you may have [leakage](https://www.hopsworks.ai/dictionary/data-leakage).
+When you train a model, you would like your model to generalize and perform well on new, unseen data. You don’t want your model to overfit to [[Training Data|training data]]. A popular way to have an unbiased approach to measuring how well your model generalizes is to split your training data into [train](https://www.hopsworks.ai/dictionary/train-training-set), [validation](https://www.hopsworks.ai/mlops-dictionary#:~:text=V-,Validation%20Set,-The%20validation%20set), and [test](https://www.hopsworks.ai/mlops-dictionary#:~:text=T-,Test%20Set,-The%20test%20set) sets. They are sets because examples should be unique to each set, otherwise you may have [leakage](https://www.hopsworks.ai/dictionary/data-leakage).
 
 **How should you split your training data?**
 --------------------------------------------
@@ -16,3 +16,7 @@ For **time-series data**, however, you typically create the train/validation set
 
 ‍
 
+
+LLM Tags:  #ml  #trainingdata #trainvaltestsplit #data-leakage
+LLM Tags:  #ml #data-analysis #data-science 
+LLM Tags:  #timeSeries, #trainValidationSet, #nonOverlappingTimeRanges, #testSet

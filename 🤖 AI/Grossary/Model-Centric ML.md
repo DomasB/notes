@@ -9,3 +9,6 @@
 
 You need to consider model-centric ML when the primary goal of your machine learning project is to optimize and improve the [model architecture](https://www.hopsworks.ai/dictionary/model-architecture) and performance of your models for a static training dataset. This approach is particularly relevant when dealing with complex problems, where the choice of architecture and hyperparameters can have a significant impact on the model's accuracy and efficiency. 
 
+
+LLM Tags:  #ml #hyperparameter #modelperformance
+LLM Tags:  #ml #mlmodels #architecture

@@ -5,3 +5,6 @@ Model training in [MLOps](https://www.hopsworks.ai/dictionary/mlops) happens as 
 
 ‍
 
+
+LLM Tags:  
+#ml, #modeltraining, #pipeline

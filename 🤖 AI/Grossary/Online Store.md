@@ -12,3 +12,7 @@
 4. **High throughput**: In addition to low latency, the online store should be able to handle a large number of concurrent requests. It must be capable of serving features to many clients simultaneously without compromising client SLAs.
 5. **Scalability**: The online store should scale horizontally to handle increasing data volumes and workloads to accommodate the growth of the [feature store](https://www.hopsworks.ai/dictionary/feature-store). This involves being able to add more resources, such as nodes or shards, to the store without downtime or any effects on its performance or availability.
 6. **Manageability and monitoring**: An online store should be easy to manage and monitor, offering tools and interfaces that allow administrators to monitor performance, identify issues, and manage resources effectively. This helps ensure that the online store operates smoothly and maintains the desired level of performance and availability.
+
+LLM Tags:  #online_store, #data-base, #key_value_store, #feature-value, #entity_ids, #primary_keys, #real_time_machine_learning
+LLM Tags:  #latency #recommendations  #throughput
+LLM Tags:  #scalability, #manageability

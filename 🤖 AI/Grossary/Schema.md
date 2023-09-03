@@ -1,7 +1,7 @@
 **What are schemas in feature stores?**
 ---------------------------------------
 
-**‍**A schema defines the shape, order, and type of data stored in [ML artifacts](https://www.hopsworks.ai/dictionary/ml-artifacts), including:  [feature groups](https://www.hopsworks.ai/dictionary/feature-groups), [feature views](https://www.hopsworks.ai/dictionary/feature-view), training datasets, and models. The schema enables the validation of the shape, order, and type of data that is either read from or input to a ML artifact. Some ML artifacts, such as feature groups, feature views, and models can support schema versioning. A schema version change indicates that the new version has a breaking schema change compared to the previous version.
+**‍**A schema defines the shape, order, and type of data stored in [ML artifacts](https://www.hopsworks.ai/dictionary/ml-artifacts), including:  [[Feature Groups|feature groups]], [[Feature View|feature views]], training datasets, and models. The schema enables the validation of the shape, order, and type of data that is either read from or input to a ML artifact. Some ML artifacts, such as feature groups, feature views, and models can support schema versioning. A schema version change indicates that the new version has a breaking schema change compared to the previous version.
 
 **Why is a schema important for ML artifacts?**
 -----------------------------------------------
@@ -10,3 +10,8 @@
 2. **Promoting best practices:** By defining a schema, data engineers and data scientists are encouraged to follow best practices in data modeling and management.
 3. [**Versioning**](https://www.hopsworks.ai/dictionary/versioning-ml-artifacts)**:** Schemas enable versioning of feature groups. If the structure or data types of a feature group change, a new schema version can be created to accommodate the changes without disrupting existing pipelines or models.
 4. **Error detection:** With a schema in place, errors in data shape, order, or type can be detected early in the pipeline, making it easier to identify and fix issues before they propagate downstream.
+
+LLM Tags:  #ml-artifacts, #schema, #feature-group #feature-view
+LLM Tags:  #data-contract #schemamgmt #versioning
+LLM Tags:  
+#errordetection #pipeline #issues

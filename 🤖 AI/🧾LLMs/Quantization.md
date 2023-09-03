@@ -18,3 +18,8 @@ The article then provides background on floating point number representation in 
 - FP16 is more memory-efficient but can introduce numerical instability and impact model accuracy.
 - BF16 balan
 - ces precision and range, making it a compromise for deep learning tasks.
+
+#modelquantization 
+LLM Tags:  #quantization #deeplearning #neuralnetworks #memoryfootprint 
+LLM Tags:  #deeplearning #precision #quantization #floatingpoint
+LLM Tags:  #ml, #deeplearning, #neuralnetworks

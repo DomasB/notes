@@ -17,5 +17,11 @@ The development and operation of ML systems has both familiar software engineeri
 **How can you leverage MLOps in a project?**
 --------------------------------------------
 
-To leverage MLOps in a project, adopt a ML pipeline-first approach focusing on [feature pipelines](https://www.hopsworks.ai/dictionary/feature-pipeline), [training pipelines](https://www.hopsworks.ai/dictionary/training-pipeline), and [inference pipelines](https://www.hopsworks.ai/dictionary/inference-pipeline), producing versioned features and models as outputs, stored in a [feature store](https://www.hopsworks.ai/dictionary/feature-store) and [model registry](https://www.hopsworks.ai/dictionary/model-registry), respectively. This approach decomposes building ML systems into more manageable ML pipelines that can be independently developed and tested, their outputs can be versioned, the ML pipelines can be easily composed into a working ML system.
+To leverage MLOps in a project, adopt a ML pipeline-first approach focusing on [[Feature Pipeline|feature pipelines]], [training pipelines](https://www.hopsworks.ai/dictionary/training-pipeline), and [inference pipelines](https://www.hopsworks.ai/dictionary/inference-pipeline), producing versioned features and models as outputs, stored in a [feature store](https://www.hopsworks.ai/dictionary/feature-store) and [model registry](https://www.hopsworks.ai/dictionary/model-registry), respectively. This approach decomposes building ML systems into more manageable ML pipelines that can be independently developed and tested, their outputs can be versioned, the ML pipelines can be easily composed into a working ML system.
 
+
+LLM Tags:  #mlops #ml #testing #versioning
+LLM Tags:  #ml #testing #mlsystems
+LLM Tags:  #mlops #devops #versioning #dependencymanagement
+LLM Tags:  #mlops #devopstesting #data-validation #modelvalidation #pipelinestruc
+LLM Tags:  #mlpipeline #hopsworksai #versioning #trainingpipeline #inferencepipeline #feature-store #modelregistry

@@ -1,7 +1,7 @@
 **What is a Training Pipeline?**‍
 =================================
 
-A training pipeline is a series of steps or processes that takes input [features](https://www.hopsworks.ai/dictionary/feature) and labels (for supervised ML algorithms), and produces a model as output. A training pipeline typically reads training data from a [feature store](https://www.hopsworks.ai/dictionary/feature-store), performs [model-dependent transformations](https://www.hopsworks.ai/dictionary/model-dependent-transformations), trains the model, and evaluates the model before the model is saved to a [model registry](https://www.hopsworks.ai/dictionary/model-registry). If model evaluation is complex, it can also be performed after the model has been saved in a model registry. 
+A training pipeline is a series of steps or processes that takes input [[Feature|features]] and labels (for supervised ML algorithms), and produces a model as output. A training pipeline typically reads training data from a [feature store](https://www.hopsworks.ai/dictionary/feature-store), performs [model-dependent transformations](https://www.hopsworks.ai/dictionary/model-dependent-transformations), trains the model, and evaluates the model before the model is saved to a [model registry](https://www.hopsworks.ai/dictionary/model-registry). If model evaluation is complex, it can also be performed after the model has been saved in a model registry. 
 
 ‍
 
@@ -21,3 +21,7 @@ Some of the steps involved in training a model include the:
 Using a feature store in the training pipeline helps to achieve consistency across different training runs and ensures that the features used for training are of high quality and reproducible.  
 
 
+
+LLM Tags:  #trainingpipeline #mltools #data-processing
+LLM Tags:  #ml #modeltraining #hyperparameter #registration
+LLM Tags:  #feature-engineering #pipeline #consistency #reproducibility

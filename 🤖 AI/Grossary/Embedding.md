@@ -17,7 +17,7 @@ The most common embedding models are for text data, image data, audio data, and 
 **Similarity search for embeddings in Vector Databases**
 --------------------------------------------------------
 
-A [vector database](https://www.hopsworks.ai/dictionary/vector-database) can be used to store embeddings and provide support for [searching for similar embeddings](https://www.hopsworks.ai/dictionary/similarity-search). 
+A [[Vector Database|vector database]] can be used to store embeddings and provide support for [[Similarity Search|searching for similar embeddings]]. 
 
 **How are embeddings created?**
 -------------------------------
@@ -29,3 +29,7 @@ Embeddings are created by training a deep learning model to generate continuous 
 
 Embeddings are similar to [latent space](https://www.hopsworks.ai/dictionary/latent-space) in that they both are a compressed representation of higher dimensional data that maintains the relationships in the original data. Embeddings are essentially points or coordinates in the latent space. 
 
+
+LLM Tags:  #embedding #ml
+LLM Tags:  #embedding, #compression, #textdata, #image-data, #audio-data, #structuredata
+LLM Tags:  #embedding, #word2vec, #neuralnetwork, #shallowneuralnetwork, #latentspace

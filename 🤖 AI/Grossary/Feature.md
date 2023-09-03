@@ -1,7 +1,7 @@
 **What are features in machine learning?**
 ------------------------------------------
 
-A feature is a measurable property of some data-sample that is used as input for a [ML](https://www.hopsworks.ai/dictionary/ml) model for training and serving. A feature should have predictive power for the model it is being used in. 
+A feature is a measurable property of some data-sample that is used as input for a [[ML]] model for training and serving. A feature should have predictive power for the model it is being used in. 
 
 **What questions do I need to ask about whether it is ok to use a particular feature in my model or not?**
 ----------------------------------------------------------------------------------------------------------
@@ -24,3 +24,6 @@ Features matter because they directly impact the accuracy and performance of mac
 
 **‍**In a model that tries to predict fraud for credit card transactions, the features might include the transaction amount and location for the current transactions as well as the number and location of transactions in recent windows of time (the last 5 minutes, 30 minutes, 1 hour, 6 hours). These features can help the model identify patterns such as chain attacks and geographic attacks that are indicative of fraudulent behavior.
 
+
+LLM Tags:  #ml, #feature, #predictivepower
+LLM Tags:  #ml, #data-analysis, #feature-engineering #ml #predictiveanalytics

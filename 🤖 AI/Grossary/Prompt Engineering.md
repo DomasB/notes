@@ -103,3 +103,12 @@ LLMs can work better when responding with structured text - such as JSON or a Py
 
 LLMs are for natural language, but similar foundational models for image classification/segmentation, trained with self-supervision, are appearing, such as Meta's AI [Segment Anything](https://segment-anything.com/). Segment anything provides a prompting-based model for creating masks for objects in images. It can be prompted in several ways, such as selecting a few "positive" and "negative" points, to create a mask that includes all the positive points and excludes all the negative points.
 
+
+LLM Tags:  #promptengineering, #questionanswering, #factverification
+LLM Tags:  #writing, #ml, #web, #hobbies, #maths
+LLM Tags:  #promptengineering #instructionmodels #generaladvice
+LLM Tags:  #languagemodeltokenization #naturallanguageprocessing #nlp
+LLM Tags:  #prompts #tokenizer #selfcriticism
+
+LLM Tags:  #context #selfcorrecting #ensembling
+LLM Tags:  #image-prompting #llm #naturallanguageprocessing

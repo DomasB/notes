@@ -4,7 +4,7 @@
 **What is model bias in machine learning?**
 -------------------------------------------
 
-Model bias refers to the presence of systematic errors in a model that can cause it to consistently make incorrect predictions. These errors can arise from many sources, including the selection of the [training data](https://www.hopsworks.ai/dictionary/training-data), the choice of [features](https://www.hopsworks.ai/dictionary/feature) used to build the model, or the algorithm used to train the model.
+Model bias refers to the presence of systematic errors in a model that can cause it to consistently make incorrect predictions. These errors can arise from many sources, including the selection of the [[Feature|training data](https://www.hopsworks.ai/dictionary/training-data), the choice of [features]] used to build the model, or the algorithm used to train the model.
 
 **What types of model bias are there?**
 ---------------------------------------
@@ -16,3 +16,6 @@ Common forms of model bias include selection bias, measurement bias, and algorit
 
 You can prevent selection bias by ensuring your training data is representative of the different groups that your model will make predictions for. You can use evaluation sets (slices of your test set with data from groups identified of being at risk of bias) to evaluate your [model performance](http://www.hopsworks.ai/dictionary/model-performance) across different groups (e.g., based on gender, ethnicity, location, etc) and identify any performance differences across those groups. 
 
+
+LLM Tags:  #ml #bias #model 
+LLM Tags:  #representationbias #trainingdata #evaluationsets #groupdifferences #performancedifferences

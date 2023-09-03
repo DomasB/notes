@@ -1,7 +1,7 @@
 **What is an on-demand transformation?**
 ----------------------------------------
 
-**‍**An on-demand transformation is a [feature function](https://www.hopsworks.ai/dictionary/feature-function) that is used to compute an [on-demand feature](https://www.hopsworks.ai/dictionary/on-demand-features). It is run both in an [online inference pipeline](https://www.hopsworks.ai/dictionary/online-inference-pipeline) and in a [feature pipeline](https://www.hopsworks.ai/dictionary/feature-pipeline). In the online inference pipeline, the on-demand feature function takes as input data only available at request-time (it may also use pre-computed features from the feature store), while in the feature pipeline the on-demand feature function takes as input historical data.
+**‍**An on-demand transformation is a [feature function](https://www.hopsworks.ai/dictionary/feature-function) that is used to compute an [on-demand feature](https://www.hopsworks.ai/dictionary/on-demand-features). It is run both in an [online inference pipeline](https://www.hopsworks.ai/dictionary/online-inference-pipeline) and in a [[Feature Pipeline|feature pipeline]]. In the online inference pipeline, the on-demand feature function takes as input data only available at request-time (it may also use pre-computed features from the feature store), while in the feature pipeline the on-demand feature function takes as input historical data.
 
 **Examples of on-demand transformations:**
 ------------------------------------------
@@ -13,8 +13,8 @@
 Here is a short snippet showcasing an on-demand transformation that calculates the time since the last user interaction in an online inference pipeline:
 
 
-```
- import time
+```Python
+import time
 
 def time_since_last_interaction(last_interaction_timestamp):
     current_time = time.time()
@@ -32,8 +32,8 @@ This example demonstrates a simple on-demand transformation (feature function) t
 This feature function can also be applied both in the feature pipeline using historical data, as shown below:
 
 
-```
- # import the same code for the on-demand feature fn as
+```Python
+# import the same code for the on-demand feature fn as
 # used in the online inference pipeline
 import time_since_last_interaction
 
@@ -46,3 +46,7 @@ user_logins_df.apply(lambda x: time_since_last_interaction(
 user_logins_df['last_login']), axis=1)
 
 ```
+
+LLM Tags:  #on-demand-transformation #on-lineinference, #feature-store, #historicaldata
+LLM Tags:  #inference #pipeline #on-demand-transformation 
+LLM Tags:  #data-analysis, #ml, #feature-engineering

@@ -21,5 +21,10 @@ One big table (OBT) refers to a data model where all the relevant dimensions and
 **Use Label-to-Fact Joins in a Feature Store**
 ----------------------------------------------
 
-In the case of creating [training data](https://www.hopsworks.ai/dictionary/training-data) from features in a feature store, you need to first identify the table(s) containing labels (targets), the event-time for the label, and the corresponding entity or entities. Only then, can you perform a [point-in-time Join](https://www.hopsworks.ai/mlops-dictionary#:~:text=Point%2Din%2DTime%20Correct%20Joins) to pull in features from the feature groups containing facts/dimension using a join on the [entity](https://www.hopsworks.ai/mlops-dictionary#:~:text=improve%20model%20performance.-,Entity,-In%20a%20feature) ID(s) and the event timestamp.
+In the case of creating [[Training Data|training data]] from features in a feature store, you need to first identify the table(s) containing labels (targets), the event-time for the label, and the corresponding entity or entities. Only then, can you perform a [point-in-time Join](https://www.hopsworks.ai/mlops-dictionary#:~:text=Point%2Din%2DTime%20Correct%20Joins) to pull in features from the feature groups containing facts/dimension using a join on the [entity](https://www.hopsworks.ai/mlops-dictionary#:~:text=improve%20model%20performance.-,Entity,-In%20a%20feature) ID(s) and the event timestamp.
 
+
+LLM Tags:  #data-model, #data-model, #dimensionalmodeling
+LLM Tags:  #data-model, #denormalization, #OBT
+LLM Tags:  #data-warehouse #analytics #business-intelligence
+LLM Tags:  #data-processing #join #entityawareness

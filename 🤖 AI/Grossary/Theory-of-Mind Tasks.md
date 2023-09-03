@@ -2,3 +2,5 @@ Theory of mind (ToM) is considered the ability to impute unobservable mental sta
 
 Kosinski showed the importance of crafting good prompts - “appropriate prompting enhances LLM ToM reasoning, and they underscore the context-dependent nature of LLM cognitive capacities”.
 
+
+ #ml  #cognition #AI  #psychology

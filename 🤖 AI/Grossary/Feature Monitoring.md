@@ -1,7 +1,7 @@
 **What is feature monitoring?**
 -------------------------------
 
-Feature monitoring involves continuously monitoring the performance of the [features](https://www.hopsworks.ai/dictionary/feature) used as model inputs in [inference pipelines](https://www.hopsworks.ai/dictionary/inference-pipeline) to identify potential problems such as anomalous inputs to models, out-of-distribution inputs for models, and drift in input [feature values](http://www.hopsworks.ai/dictionary/feature-value) such that the [model performance](http://www.hopsworks.ai/dictionary/model-performance) degrades. 
+Feature monitoring involves continuously monitoring the performance of the [[Feature|features]] used as model inputs in [inference pipelines](https://www.hopsworks.ai/dictionary/inference-pipeline) to identify potential problems such as anomalous inputs to models, out-of-distribution inputs for models, and drift in input [feature values](http://www.hopsworks.ai/dictionary/feature-value) such that the [model performance](http://www.hopsworks.ai/dictionary/model-performance) degrades. 
 
 **How are features monitored?**
 -------------------------------
@@ -19,3 +19,9 @@ An alternative to these statistical methods is to train a classifier model on th
 
 When issues are detected, feature monitoring can trigger alerts or notifications to the appropriate personnel, such as data scientists or machine learning engineers, who can investigate the issue and take action to address it. 
 
+
+LLM Tags:  #monitoring, #inferencepipeline #outofdistribution, #drift, #feature-value, #performancetracking
+LLM Tags:  #monitoringtechniques, #anomaly-detection
+LLM Tags:  #js
+LLM Tags:  #ml, #classification, #driftmonitoring
+ #ml

@@ -3,7 +3,7 @@
 
 **‍**The orchestration of [ML pipelines](https://www.hopsworks.ai/dictionary/ml-pipeline) is crucial to making ML pipelines **run without human intervention**, and **run reliably**, even in the event of hardware or software errors. 
 
-Orchestration of ML pipelines refers to the process of automating the execution of the [feature](https://www.hopsworks.ai/dictionary/feature-pipeline)/[training](https://www.hopsworks.ai/dictionary/training-pipeline)/[inference](https://www.hopsworks.ai/dictionary/inference-pipeline) pipeline. Ideally, a single orchestrator tool should manage the execution of the different ML pipelines.
+Orchestration of ML pipelines refers to the process of automating the execution of the [[Feature|feature]]/[training](https://www.hopsworks.ai/dictionary/training-pipeline)/[inference](https://www.hopsworks.ai/dictionary/inference-pipeline) pipeline. Ideally, a single orchestrator tool should manage the execution of the different ML pipelines.
 
 **Which ML pipelines need to be orchestrated?**
 -----------------------------------------------
@@ -25,8 +25,13 @@ A good orchestrator will:
 
 * identify if errors occur and alert the pipeline owner,
 * be easy to debug in case of error,
-* enabled failed runs to be easily re-run without any side-effects ([idempotent](https://www.hopsworks.ai/dictionary/idempotent-ml-pipelines)),
+* enabled failed runs to be easily re-run without any side-effects ([[Idempotent ML Pipelines]]),
 * and pipeline runs should scale to handle any data input size by scaling the amount of resources needed for that run.
 
 Examples of tools and frameworks used for ML pipeline orchestration include Apache Airflow, Flyte, Kubeflow, Azure Data Factory, and AWS Step Functions. These tools provide a range of features, such as workflow scheduling, monitoring, fault tolerance, and version control, that can help orchestrate ML pipelines. Simpler cron-based scheduling is available from platforms like Github Actions and Modal that are useful when prototyping.
 
+
+LLM Tags:  #mlpipelines #orchestration #automation #reliability
+LLM Tags:  #mlpipeline #orchestrationrequirements #operationalpipelines #trainingpipelines
+LLM Tags:  #streaming, #ml, #orchestration
+LLM Tags:  #mlpipelineorchestration #toolsformlpipeline #frameworksformlpipeline

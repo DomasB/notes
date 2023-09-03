@@ -1,7 +1,7 @@
 **What is a feature pipeline in machine learning?**
 ---------------------------------------------------
 
-**‍**A feature pipeline is a program that [orchestrates](https://www.hopsworks.ai/dictionary/orchestration) the execution of a dataflow graph of [feature functions](https://www.hopsworks.ai/dictionary/feature-function) ([transformations](https://www.hopsworks.ai/dictionary/transformation) on input data to create unencoded feature data), where the computed features are written to one or more [feature groups](https://www.hopsworks.ai/dictionary/feature-groups). A feature pipeline can also include reading the input data from data sources, [data validation](https://www.hopsworks.ai/dictionary/data-validation-for-features), and any other steps needed when computing [features](https://www.hopsworks.ai/dictionary/feature).
+**‍**A feature pipeline is a program that [orchestrates](https://www.hopsworks.ai/dictionary/orchestration) the execution of a dataflow graph of [feature functions](https://www.hopsworks.ai/dictionary/feature-function) ([transformations](https://www.hopsworks.ai/dictionary/transformation) on input data to create unencoded feature data), where the computed features are written to one or more [[Feature Groups|feature groups]]. A feature pipeline can also include reading the input data from data sources, [data validation](https://www.hopsworks.ai/dictionary/data-validation-for-features), and any other steps needed when computing features.
 
 ‍**Why do I need a feature pipeline?**
 --------------------------------------
@@ -20,3 +20,7 @@ Feature pipelines read their input data from data sources such as data warehouse
 2. **Data/feature validation**: The raw data and/or feature data is validated to ensure that it is accurate, complete, and consistent.
 3. **Feature extraction/transformation**: Relevant features are extracted from the raw data and transformed into a format that is optimized for machine learning models using techniques such as filtering, aggregation, dimensionality reduction (embeddings, PCA), binning, and feature crossing.
 4. **Feature storage**: The features are stored in feature groups in the feature store for access training and inference pipelines.
+
+LLM Tags:  #ml, #data-vizualization
+LLM Tags:  #data-pipeline #streamingfeatures #feature-group 
+LLM Tags:  #ml, #feature-pipeline, #feature-validation, #transformation, #storag

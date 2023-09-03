@@ -13,5 +13,8 @@
 ‍**Example of a batch inference application**
 ---------------------------------------------
 
-**‍**A Spark program reads all of the new inference data that has arrived in the previous 24 hours as a DataFrame. The Spark program downloads the model from the [model registry](https://www.hopsworks.ai/dictionary/model-registry), broadcasts it to all executors, and then a map function calls predict on the model for each row in the DataFrame, returning the predictions as a DataFrame. The predictions DataFrame is then stored in a database from where it is consumed by a Dashboard or operational [ML](https://www.hopsworks.ai/dictionary/ml) system.
+**‍**A Spark program reads all of the new inference data that has arrived in the previous 24 hours as a DataFrame. The Spark program downloads the model from the [model registry](https://www.hopsworks.ai/dictionary/model-registry), broadcasts it to all executors, and then a map function calls predict on the model for each row in the DataFrame, returning the predictions as a DataFrame. The predictions DataFrame is then stored in a database from where it is consumed by a Dashboard or operational [[ML]] system.
 
+
+LLM Tags:  #ml, #inferencepipeline, #prediction
+LLM Tags:  #spark #ml #modelregistry #prediction #data-base

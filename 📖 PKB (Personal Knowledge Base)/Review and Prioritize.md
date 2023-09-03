@@ -14,3 +14,5 @@
 	    - **Potential for Future Use**: Quickly assess content with potential for future application or relevance.
 1. **Plan for Application (15 minutes)**:
     - Consider practical application of new knowledge in work or projects.
+ #deep-learning #research-notes #key-insights #relevance-assessment  # 
+ #application-plan #work-projects

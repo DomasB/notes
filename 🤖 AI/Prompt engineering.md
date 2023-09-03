@@ -47,3 +47,5 @@ https://github.com/dair-ai/Prompt-Engineering-Guide
 https://ai.plainenglish.io/prompt-engineering-the-best-free-online-resources-to-get-better-at-prompting-831a0967b26d
 https://promptsninja.com/featured/8-best-practices-for-chatgpt-rompt-engineering/
 https://towardsdatascience.com/prompt-engineering-guide-for-data-analysts-54f480ba4d98
+
+#promptengineering #llm #resources #ml #chatbots #ChatGPT #prompts #AI

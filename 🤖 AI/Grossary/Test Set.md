@@ -10,3 +10,7 @@
 
 The splitting process should ensure that the distribution of data in the test set is representative of the overall dataset. This can be achieved by using random sampling, time-series partitions, or stratified sampling, depending on the nature of the data. In time-series partitions, you typically create the train/validation sets from an earlier time range of data, and the test set from a time range after the train set (to test if the model can generalize to work well in future unseen data). In stratified sampling, the data is divided in such a way that the proportion of each class or category in the test set is the same as in the original dataset, ensuring a balanced representation of different classes or categories.
 
+
+LLM Tags:  #ml, #testset
+LLM Tags:  #data-science #ml #trainingset #validationset #testset #hyperparameter #performancetest
+LLM Tags:  #data-analysis #samplingmethods #time-series #stratification

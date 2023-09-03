@@ -6,5 +6,7 @@ ETL stands for Extract, Transform, and Load of data. ETL is a process whereby a 
 **Where is ETL important in ML systems?**
 -----------------------------------------
 
-ETL is a pattern often found in feature pipelines that extracts data from existing data stores, transforms the raw data into [features](https://www.hopsworks.ai/dictionary/feature) and then loads those features into a [feature store](https://www.hopsworks.ai/dictionary/feature-store).
+ETL is a pattern often found in feature pipelines that extracts data from existing data stores, transforms the raw data into [[Feature|features]] and then loads those features into a [feature store](https://www.hopsworks.ai/dictionary/feature-store).
 
+
+LLM Tags:  #ETL #data-warehouse #data-mining #ml
