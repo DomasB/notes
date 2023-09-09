@@ -25,39 +25,35 @@
 - Snorkling, Diving, Climbing, Yoga, Areal
 - Moon parties/Beach parties
 
-### Day 8: Jan 31 - Phang Nga
+### Day 8: Jan 31 - 
 
-- **Activity: Canyoning in Phang Nga Bay**
 
-### Day 9: Feb 1 - Phang Nga
 
-- **Activity: Kayaking through mangroves and caves**
+### Day 9: Feb 1 - 
 
-### Day 10: Feb 2 - Phang Nga to Krabi
 
-- **Morning: Drive to Krabi (2 hrs)**
-- **Afternoon: Jungle trek to the Emerald Pool and hot springs**
 
-### Day 11: Feb 3 - Krabi
+### Day 10: Feb 2 - 
 
-- **Activity: Rock climbing at Railay Beach**
 
-### Day 12: Feb 4 - Krabi to Bangkok
+### Day 11: Feb 3 - 
 
-- **Morning: Flight to Bangkok (1.5 hrs)**
-- **Afternoon: Jim Thompson House or Lumpini Park**
 
-### Day 13: Feb 5 - Bangkok
 
-- **Free day for shopping or leisure**
+### Day 12: Feb 4 - 
+
+
+### Day 13: Feb 5 - 
+
+
 
 ### Day 14: Feb 6 - Bangkok
 
-- **Optional day trip to Khao Sok National Park for jungle trekking**
+
 
 ### Day 15: Feb 7 - Bangkok
 
-- **Last-minute shopping or revisit favorite spots**
+
 
 ### Day 16: Feb 8 - Departure
 

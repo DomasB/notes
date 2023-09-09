@@ -20,7 +20,7 @@ An alternative to these statistical methods is to train a classifier model on th
 When issues are detected, feature monitoring can trigger alerts or notifications to the appropriate personnel, such as data scientists or machine learning engineers, who can investigate the issue and take action to address it. 
 
 
-LLM Tags:  #monitoring, #inferencepipeline #outofdistribution, #drift, #feature-value, #performancetracking
+LLM Tags:  #monitoring, #inference-pipeline #outofdistribution, #drift, #feature-value, #performancetracking
 LLM Tags:  #monitoringtechniques, #anomaly-detection
 LLM Tags:  #js
 LLM Tags:  #ml, #classification, #driftmonitoring

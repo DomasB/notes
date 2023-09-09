@@ -58,6 +58,6 @@ In this example, the feature transformation at the inference stage incorrectly c
 
 
 LLM Tags:  #ml, #offline_online_skew
-LLM Tags:  #feature-skew, #on-demand-transformation, #traininginferenceskew, #modperpform
+LLM Tags:  #feature-skew, #on-demand-transformation, #training-inference-skew, #modperpform
 LLM Tags:  #training-inference skew, #feature pipeline, #online inference
 LLM Tags:  #transformation_error, #skewness, #inference

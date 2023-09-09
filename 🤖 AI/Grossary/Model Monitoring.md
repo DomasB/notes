@@ -20,5 +20,5 @@ When issues are detected, model monitoring can trigger alerts or notifications t
 
 
 LLM Tags:  #monitoring, #model, #performance, #anomaly-detection, #label-shift
-LLM Tags: #monitoring #predictionwindow #label-shift #trainingdataset
+LLM Tags: #monitoring #predictionwindow #label-shift #training-data
 LLM Tags:  #monitoring #alerts #notifications #data-science #ml

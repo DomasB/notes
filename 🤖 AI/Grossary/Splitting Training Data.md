@@ -17,6 +17,6 @@ For **time-series data**, however, you typically create the train/validation set
 ‍
 
 
-LLM Tags:  #ml  #trainingdata #trainvaltestsplit #data-leakage
+LLM Tags:  #ml  #training-data #trainvaltestsplit #data-leakage
 LLM Tags:  #ml #data-analysis #data-science 
 LLM Tags:  #timeSeries, #trainValidationSet, #nonOverlappingTimeRanges, #testSet

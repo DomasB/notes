@@ -47,6 +47,6 @@ user_logins_df['last_login']), axis=1)
 
 ```
 
-LLM Tags:  #on-demand-transformation #on-lineinference, #feature-store, #historicaldata
+LLM Tags:  #on-demand-transformation #online-inference, #feature-store, #historical-data
 LLM Tags:  #inference #pipeline #on-demand-transformation 
 LLM Tags:  #data-analysis, #ml, #feature-engineering

@@ -17,5 +17,5 @@ Fine-tuning a Large-Language Model (LLMs) has traditionally required retraining 
 ‍
 
 
-LLM Tags:   #transferlearning, #pre-training
-LLM Tags:  #fine-tuning #language model #GPU memory
+LLM Tags:   #transfer-learning #pre-training
+LLM Tags:  #fine-tuning #llm

@@ -107,8 +107,8 @@ LLMs are for natural language, but similar foundational models for image classif
 LLM Tags:  #promptengineering, #questionanswering, #factverification
 LLM Tags:  #writing, #ml, #web, #hobbies, #maths
 LLM Tags:  #promptengineering #instructionmodels #generaladvice
-LLM Tags:  #languagemodeltokenization #naturallanguageprocessing #nlp
+LLM Tags:  #languagemodeltokenization #nlp #nlp
 LLM Tags:  #prompts #tokenizer #selfcriticism
 
 LLM Tags:  #context #selfcorrecting #ensembling
-LLM Tags:  #image-prompting #llm #naturallanguageprocessing
+LLM Tags:  #image-prompting #llm #nlp

@@ -7,4 +7,4 @@ For example, a *customer\_id* could be a unique identifier for a customer in a *
 
 
 LLM Tags:  #feature-store, #entity, #feature
-LLM Tags:  #online_store #feature-value #historical_data
+LLM Tags:  #online-store #feature-value #historical-data

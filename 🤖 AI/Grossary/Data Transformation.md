@@ -16,6 +16,6 @@ Data transformations are important because they allow raw data to be cleaned, pr
 * **Window-based aggregations** - streaming pipelines accumulate state in windows over time and fixed-sized window aggregations can be computed by batch pipelines,
 * ML transformations that are based on a **reference window** (such as encoding of numerical/categorical features for [data compatibility](http://www.hopsworks.ai/dictionary/data-compatibility) or performance).
 
-LLM Tags:  #data-transformation #mlpipeline #data-processing
+LLM Tags:  #data-transformation #ml-pipeline #data-processing
 LLM Tags:  #data-analysis #data-transformation #ml #parquet
 LLM Tags:  #mltransformations #streamingpipelines

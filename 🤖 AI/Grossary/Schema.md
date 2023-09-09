@@ -12,6 +12,6 @@
 4. **Error detection:** With a schema in place, errors in data shape, order, or type can be detected early in the pipeline, making it easier to identify and fix issues before they propagate downstream.
 
 LLM Tags:  #ml-artifacts, #schema, #feature-group #feature-view
-LLM Tags:  #data-contract #schemamgmt #versioning
+LLM Tags:  #data-contract #schema #versioning
 LLM Tags:  
 #errordetection #pipeline #issues

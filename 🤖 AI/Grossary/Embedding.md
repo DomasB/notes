@@ -32,4 +32,4 @@ Embeddings are similar to [latent space](https://www.hopsworks.ai/dictionary/lat
 
 LLM Tags:  #embedding #ml
 LLM Tags:  #embedding, #compression, #textdata, #image-data, #audio-data, #structuredata
-LLM Tags:  #embedding, #word2vec, #neuralnetwork, #shallowneuralnetwork, #latentspace
+LLM Tags:  #embedding, #word2vec, #neural-network, #shallowneuralnetwork, #latentspace

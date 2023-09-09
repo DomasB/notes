@@ -5,5 +5,5 @@
 
 
 ![latent space visualization](https://assets.website-files.com/618399cd49d125734c8dec95/6437e8cb4769a16c5e8b05df_VWVYaJ5KzUbtPztSQ30GUBgJBumdKRNO_CB57S6bUkOvKyHCnWzktORVCr8-SKmgvOBh8mF--_bq2K0HHFTkqSEJKG_SLiHkXtZyAWtN1LRpTIoxG10jSDG8iJbGTq6wvtFX5GdubRy0E6jWQ9p4ZA.png)Image Source: [Hackernoon Latent Space Visualization](https://hackernoon.com/latent-space-visualization-deep-learning-bits-2-bd09a46920df)
-LLM Tags:  #ml #deeplearning #auto-encoder
-LLM Tags:  #ml, #deeplearning
+LLM Tags:  #ml #deep-learning #auto-encoder
+LLM Tags:  #ml, #deep-learning

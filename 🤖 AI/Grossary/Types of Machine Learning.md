@@ -33,8 +33,8 @@ The most popular machine learning types are:
 5. In-Context Learning
 	* In a pre-trained transformer model, in-context learning (ICL) (or zero-shot/few-shot learning) is the ability of the model to learn a new task from a small set of examples presented within the prompt at inference time. In-context learning can help improve the performance of the predictions produced by LLMs for a specific task. It can also be used to personalize a LLM by providing history and context about a user as part of a prompt.
 
-LLM Tags:  #ml, #mlmodels, #predictionproblems, #supervisedlearning
+LLM Tags:  #ml, #ml-model, #predictionproblems, #supervisedlearning
 LLM Tags:  #ml, #regression, #unsupervisedlearning, #selftraining
 LLM Tags:  #image-segmentation #anomaly-detection #unsupervisedml
-LLM Tags:  #reinforcementlearning #ml #deeplearning #in-context-learning
+LLM Tags:  #reinforcementlearning #ml #deep-learning #in-context-learning
 LLM Tags:  #in-context-learning, #llm, #personalization

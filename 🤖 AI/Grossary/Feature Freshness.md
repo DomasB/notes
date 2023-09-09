@@ -29,7 +29,7 @@ In batch systems, you have to add together the amount of time that has passed si
 In a [streaming feature pipeline](https://www.hopsworks.ai/dictionary/streaming-feature-pipeline), the time between when the streaming event or batch of events has been created to when the streaming feature pipeline writes the updated [feature value](http://www.hopsworks.ai/dictionary/feature-value) to the online feature store.
 
 
-LLM Tags:  #ml #feature-freshness #inferencepipeline
-LLM Tags:  #ml, #trainingdata
-LLM Tags:  #feature-pipeline #streamingfeatures #on-demand-features #precomputedfeatures #lowern latency
+LLM Tags:  #ml #feature-freshness #inference-pipeline
+LLM Tags:  #ml, #training-data
+LLM Tags:  #feature-pipeline #streaming-features #on-demand-features #precomputedfeatures #lowern latency
 LLM Tags:  #streaming, #onlinelearning, #pipeline

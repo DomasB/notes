@@ -19,6 +19,6 @@ An inference pipeline typically involves first an initialization step that inclu
 Model deployments run 24x7 and serve inference requests over the network, typically using some model serving infrastructure. The [online inference pipeline](https://www.hopsworks.ai/dictionary/online-inference-pipeline) is the code that is executed before and after the trained model makes predictions as part of an online inference request. In contrast, a [batch inference pipeline](https://www.hopsworks.ai/dictionary/batch-inference-pipeline) is a program that is run on a schedule to make predictions on (typically) new inference data that has arrived since the last time the batch inference pipeline ran. 
 
 
-LLM Tags:  #inferencepipeline, #ml
-LLM Tags:  #inferencepipeline, #modelregistry, #data-pipeline, #precomputedfeatures, #transformation, #encoding
+LLM Tags:  #inference-pipeline, #ml
+LLM Tags:  #inference-pipeline, #model-registry, #data-pipeline, #precomputedfeatures, #transformation, #encoding
 LLM Tags:  #online-inference, #offline-inference, #model_serving

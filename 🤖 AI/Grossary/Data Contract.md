@@ -15,5 +15,5 @@ Create a feature group containing customer purchase data, which includes feature
 
 
 LLM Tags: #metadata, #schemaless
-LLM Tags:  #data-contract, #ml #trainingpipeline, #inferencepipeline, #data-processing, #governance
+LLM Tags:  #data-contract, #ml #training-pipeline, #inference-pipeline, #data-processing, #governance
 LLM Tags:  #data-analysis #ml #governancerequirements #metadata

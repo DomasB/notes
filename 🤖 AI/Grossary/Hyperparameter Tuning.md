@@ -30,5 +30,5 @@ However, this can be time-consuming and impractical for larger models. Automated
 
 LLM Tags:  #ml, #hyperparameter
 LLM Tags:  #hyperparameter #ml #data-science #hyperparameter
-LLM Tags:  #hyperparameter #ml #deeplearning
+LLM Tags:  #hyperparameter #ml #deep-learning
 LLM Tags:  #hyperparameter

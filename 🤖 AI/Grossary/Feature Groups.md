@@ -10,5 +10,5 @@ The other columns in a feature group are the [[Feature|features]]. You can selec
 
 LLM Tags:  #feature-store, #feature, #data-analysis
 LLM Tags:  #ml, #data-base, #inference
-LLM Tags:  #data-warehouse #big-data #offlinestore #onlinestore
+LLM Tags:  #data-warehouse #big-data #offline-store #online-store
 LLM Tags:  #data-analysis #data-mining #data-science

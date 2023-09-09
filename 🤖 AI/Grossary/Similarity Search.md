@@ -25,8 +25,8 @@ Popular approximate approaches include:
 * **FAISS** ([Facebook AI Similarity Search](https://github.com/facebookresearch/faiss)) enables vectors to be compared with L2 (Euclidean) distances or dot products and uses quantization and binary indexes to reduce search latency at the cost of recall. Compared to HNSW, it does not build a complex indexing structure, enabling it to be optimized for memory usage and speed;
 * ‍**SCANN** ([Scalable Approximate Nearest Neighbors](https://github.com/google-research/google-research/tree/master/scann)) uses search space pruning and quantization for Maximum Inner Product Search and also supports other distance functions such as Euclidean distance.
 
-#embedding #data-base  #similaritysearch #modality #vectormodel
-LLM Tags:  #similaritysearch #anomaly-detection #deduplication
+#embedding #data-base  #similarity-search #modality #vectormodel
+LLM Tags: #anomaly-detection #deduplication
 LLM Tags:  #ml 
 LLM Tags:  #graph #proximitygraphs #hierarchicalnetworks #neighborsearch
 LLM Tags:  #ml, #faiss, #l2distance

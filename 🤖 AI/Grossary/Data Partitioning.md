@@ -14,5 +14,5 @@ training_data = feature_view.training_data().filter("location", "USA")
 
 
 LLM Tags:   #feature-store
-LLM Tags:  #partitioning #feature-group #offlinestore #hivestylepartioning
+LLM Tags:  #partitioning #feature-group #offline-store #hivestylepartioning
 LLM Tags:  #data-analysis, #data-model, #dimensionalmodeling

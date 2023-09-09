@@ -75,4 +75,4 @@ print(f"Lifetime Value Model R-squared: {ltv_r_squared:.2f}")
 LLM Tags:  #featurere-use #ml #data-analysis
 LLM Tags:  #feature-engineering #reusefeatures #encodedeeplearning
 LLM Tags:  #feature-encoding, #reuse_features
-LLM Tags:  #data-mining #predictiveanalytics
+LLM Tags:  #data-mining #predictive-analytics

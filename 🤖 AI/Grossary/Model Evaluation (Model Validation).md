@@ -17,6 +17,6 @@ For a binary classification problem, common evaluation metrics include accuracy,
 
 
 LLM Tags:  #modelevaluation #mleval #mlvalidation
-LLM Tags:  #ml, #data-analysis, #modeltraining
+LLM Tags:  #ml, #data-analysis, #training
 LLM Tags:  #evaluationmetrics, #modelselection, #bias
 LLM Tags:  #ml, #evaluationmetrics, #classification

@@ -9,5 +9,5 @@ ML artifacts (or ML assets) are outputs of [[ML Pipeline|ML pipelines]] that ar
 ML artifacts are important because they capture the outputs of machine learning pipelines that are used as inputs for subsequent pipelines or for deployment in production systems. Artifacts should have a [version](https://www.hopsworks.ai/dictionary/versioning-ml-artifacts) and a [schema](https://www.hopsworks.ai/dictionary/schema), enabling [MLOps](https://www.hopsworks.ai/dictionary/mlops) patterns around upgrading and downgrading models in production.
 
 
-LLM Tags:  #ml-artifacts #mlipeline #trainingdata #inferencedata
+LLM Tags:  #ml-artifacts #ml-pipeline #training-data #inference-data
 LLM Tags:  #ml , #artifact, #versioning, #schemata, #mlops

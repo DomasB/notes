@@ -32,6 +32,6 @@ For a [[Feature Pipeline]], an idempotent write to an offline feature store typi
 LLM Tags:  #idempotence, #selfhealingsystems, #reliability
 LLM Tags:  #ml, #prediction, #model, #client, #storage
 LLM Tags:  #idempotence #pipeline #orchestration #inference 
-LLM Tags:  #idempotence, #trainingpipeline, #data-model, #modeltraining
-LLM Tags:  #data-pipeline #offlinestore #idempotence #retention
+LLM Tags:  #idempotence, #training-pipeline, #data-model, #training
+LLM Tags:  #data-pipeline #offline-store #idempotence #retention
 LLM Tags:  #operationalml, #dupes, #onlineofflinestore

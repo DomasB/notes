@@ -70,4 +70,4 @@ LLM Tags:  #personalknowledgebase, #informationmanagement, #research, #organizat
 LLM Tags:  #productivity #notekeeping #reflection #planning
 LLM Tags:  #productivityhacks #personaldevelopment #creativity #note taking #tagging
 LLM Tags:  #research #notekeeping #organization #goalsetting
-LLM Tags:  #mentorship, #collaboration, #networking
+LLM Tags:  #mentorship, #collaboration, #network

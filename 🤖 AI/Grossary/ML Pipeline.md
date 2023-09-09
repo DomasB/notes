@@ -14,4 +14,4 @@ ML pipelines help ensure the reproducibility and scalability of machine learning
 If you have a [feature store](https://www.hopsworks.ai/dictionary/feature-store), you can decompose a monolithic ML pipeline into feature, training and inference pipelines. The feature store becomes the data layer for your ML pipelines, storing the outputs of the feature pipeline, and providing inputs to the training and inference pipelines. 
 
 
-#mlpipeline, #ml, #web #feature-store
+#ml-pipeline, #ml, #web #feature-store

@@ -59,8 +59,8 @@ feature_vectors_df = feature_view.get_feature_vectors(entries, return_type="pand
 ```
 
  #ml, #data-analysis
-LLM Tags:   #inference_pipelines, #online-inference
+LLM Tags:   #inference-pipeline, #online-inference
 LLM Tags:  #data-science #mllib #pandas #data-analysis
-LLM Tags:  #ml #mlmodel #embedding #vector-database
-LLM Tags:  #online-inference #feature-store #hopsworks #prediction
+LLM Tags:  #ml #ml-model #embedding #vector-database
+LLM Tags:  #online-inference #feature-store #prediction
 LLM Tags:  #data-analysis #ml #ai #housingprices

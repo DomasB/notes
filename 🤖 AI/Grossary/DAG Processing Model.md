@@ -12,5 +12,5 @@ DAGs are a more challenging programming paradigm compared to imperative programs
 
 DAGS are used in [[Feature Pipeline|feature pipelines]] when you implement your [feature engineering](https://www.hopsworks.ai/dictionary/feature-engineering) in a data processing system such as Apache Airflow and Apache Spark. DAGs are encountered in both online and offline inference pipelines, where predictions from one model may be inputs to another model. For [batch inference pipelines](https://www.hopsworks.ai/dictionary/batch-inference-pipeline), again Airflow and Spark are popular execution engines. For [online inference](https://www.hopsworks.ai/dictionary/online-inference-pipeline), frameworks such as KServe support the definition and execution of multi-stage pipelines where predictions from one model are fed as input to [downstream](https://www.hopsworks.ai/dictionary/downstream) models.
 
-LLM Tags:  #programmingmodels, #data-processing, #mlpipelines, #parallelprocessing
-LLM Tags:  #data-processing, #feature-engineering, #spark, #kserve, #prediction, #inferencepipeline
+LLM Tags:  #programmingmodels, #data-processing, #ml-pipeline, #parallelprocessing
+LLM Tags:  #data-processing, #feature-engineering, #spark, #kserve, #prediction, #inference-pipeline

@@ -18,7 +18,7 @@ A problem with creating a point-in-time-correct training data snapshot is that t
 1. **Avoiding label leakage:** Ensuring that the features used for training are only derived from data available at the point in time corresponding to the label prevents label leakage. Label leakage occurs when information from the future is unintentionally used for training, leading to over-optimistic [model performance](http://www.hopsworks.ai/dictionary/model-performance) that does not generalize well to real-world scenarios.
 2. **Reproducibility**: PIT-Correct Join makes it possible to recreate historical snapshots of data consistently, which is essential for model reproducibility, debugging, and auditing purposes.
 
-LLM Tags:  #data-base, #join, #trainingdata
-LLM Tags:  #data-analysis #mlpipeline
+LLM Tags:  #data-base, #join, #training-data
+LLM Tags:  #data-analysis #ml-pipeline
 LLM Tags:  #data-pipeline, #join, #timestamping, #pointintimecorrection
-LLM Tags:  #reproducibility #modelperformance #historsnapshots
+LLM Tags:  #reproducibility #model-performance #historsnapshots

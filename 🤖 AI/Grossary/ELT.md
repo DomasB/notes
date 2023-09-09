@@ -10,4 +10,4 @@ ELT is often found in [[Feature|feature pipelines](https://www.hopsworks.ai/dict
 
 
 LLM Tags:  #ELT #data-warehouse #SQL #ETL #ml
-LLM Tags:  #data-warehouse #transformations, #pipelines
+LLM Tags:  #data-warehouse #transformation, #pipelines

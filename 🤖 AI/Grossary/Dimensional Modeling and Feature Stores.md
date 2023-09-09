@@ -25,5 +25,5 @@ One data modeling design question that is still hotly debated in the data wareho
 
 LLM Tags:  #dimensionalmodeling #data-model
 LLM Tags:  #feature-store #labelschema #feature-view
-LLM Tags:  #operationalml #starschema, #trainingdata
+LLM Tags:  #operationalml #starschema, #training-data
 LLM Tags:  #data-warehouse, #data-model, #ml, #join

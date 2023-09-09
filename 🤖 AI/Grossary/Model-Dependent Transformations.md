@@ -58,9 +58,9 @@ This example demonstrates how to standardize numerical data by applying the [sta
 Where u is the mean of the train set samples, and s is the standard deviation of the train set samples.
 
 
-LLM Tags:  #transformations, #modeldependence
-LLM Tags:  #ml, #transformation, #encoding, #trainingpipeline, #inferencepipeline
-LLM Tags:  #modeldependence, #transformations, #data-compatibility
+LLM Tags:  #transformation, #modeldependence
+LLM Tags:  #ml, #transformation, #encoding, #training-pipeline, #inference-pipeline
+LLM Tags:  #modeldependence, #transformation, #data-compatibility
 LLM Tags:  #encoding, #normalization
 LLM Tags:  #data-processing #ml #algorithm-selection
 LLM Tags:  #data-analysis #preprocessing #standardization #transformation #sklearn

@@ -6,4 +6,4 @@ A precomputed feature is a [[Feature|feature]] that has been created by a [[Feat
 ‍
 
 
-LLM Tags:  #precomputedfeatures #feature-pipeline #feature-store #training #inferencepipeline
+LLM Tags:  #precomputedfeatures #feature-pipeline #feature-store #training #inference-pipeline

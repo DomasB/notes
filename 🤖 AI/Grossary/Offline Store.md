@@ -6,5 +6,5 @@ The offline store in a [[Feature|feature store](https://www.hopsworks.ai/diction
 A popular offline feature store is to store feature data in an object store or distributed file system in a lakehouse file format (Apache Hudi, Delta Lake, Apache Iceberg). Another popular option is to use a data warehouse as an offline feature store.
 
 
-LLM Tags:  #offlinestore #feature-store #modeltraining
-LLM Tags:  #data-warehouse #offlinestore #lakehouserescue
+LLM Tags:  #offline-store #feature-store #training
+LLM Tags:  #data-warehouse #offline-store #lakehouserescue

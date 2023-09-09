@@ -11,7 +11,7 @@ Model registries are recommended for projects involving [ML pipelines](https://w
 **Examples of a model registry**
 --------------------------------
 
-Some model registries provide a unified API for storing and retrieving models and their metadata, such as [Hopsworks](https://docs.hopsworks.ai/latest/concepts/mlops/registry/), [Sagemaker](https://aws.amazon.com/sagemaker/), and [Weights & Biases](https://wandb.ai/site), while others, such as [MLFlow](https://mlflow.org/), separate the metadata store for model metadata from an artifact store, where the serialized models are stored.
+Some model registries provide a unified API for storing and retrieving models and their metadata, such as [Hopsworks](https://docs.hopsworks.ai/latest/concepts/mlops/registry/), [Sagemaker](https://aws.amazon.com/sagemaker/), and [Weights & Biases](https://wandb.ai/site), while others, such as [MLFlow](https://mlflow.org/) or [Verta.ai](https://docs.verta.ai/), separate the metadata store for model metadata from an artifact store, where the serialized models are stored.
 
 Example code for registering a Scikit-Learn model to Hopsworks is shown below:
 
@@ -33,7 +33,7 @@ fraud_model.save('the_model')
 
 ```
 
-LLM Tags:  #modelregistry,  #api, #artifact, #metadatamgmt
-LLM Tags:  #modelregistry #mlpipeline #governance #trainingpipeline #inferencepipeline #versioning #caching #collaboration #organization #mlop
+LLM Tags:  #model-registry,  #api, #artifact, #metadatamgmt
+LLM Tags:  #model-registry #ml-pipeline #governance #training-pipeline #inference-pipeline #versioning #caching #collaboration #organization #mlops
 LLM Tags:  #hobbies, #maths, #ml
-LLM Tags:  #ml, #neuralnetworks, #deeplearning
+LLM Tags:  #ml, #neural-network, #deep-learning

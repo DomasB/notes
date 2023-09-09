@@ -56,6 +56,6 @@ feature_view = fs.create_feature_view(
 
 ```
 
-#data-analysis #ml #data-mining  #feature-view #awareness #transformations  #modellearning #data-leakage #trainingskew
-LLM Tags:  #ml, #data-processing, #predictiveanalytics
+#data-analysis #ml #data-mining  #feature-view #awareness #transformation  #modellearning #data-leakage #trainingskew
+LLM Tags:  #ml, #data-processing, #predictive-analytics
 LLM Tags:  #mllib, #data-frame, #pandas, #feature-selection, #standardization

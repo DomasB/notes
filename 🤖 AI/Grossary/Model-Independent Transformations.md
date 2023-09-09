@@ -65,8 +65,8 @@ This example demonstrates how to aggregate the age data into age groups using th
 
 LLM Tags:  #data-transformation, #feature-engineering, #modelindpt
 LLM Tags:  #AI #data-pipeline #featurere-use #modelindependent #modeldependenttransformations #refactoring  #hopsworksai
-LLM Tags:  #data-analysis, #ml, #transformations
+LLM Tags:  #data-analysis, #ml, #transformation
 LLM Tags:  #streammapping #timestreamanalysis #on-demand-features #nlp 
 LLM Tags:  #audio, #ml, #webscraping
-LLM Tags:  #dimensionalityreduction #modelindependent  #filtering #binning #embeddings
+LLM Tags:  #dimensionalityreduction #modelindependent  #filtering #binning #embedding
 LLM Tags:  #pandas, #data-analysis, #pythonprogramming

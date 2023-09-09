@@ -10,4 +10,4 @@ Feature platforms can provide benefits of a feature store such as centralization
 
 
 LLM Tags:  #feature-store, #domainspecificlanguage, #feature-logic, #feature-pipeline, #orchestrationengine, #on-demand-features
-LLM Tags:  #mlpractice #feature-engineering #trainingpipelines #inferencing
+LLM Tags:  #mlpractice #feature-engineering #training-pipeline #inference

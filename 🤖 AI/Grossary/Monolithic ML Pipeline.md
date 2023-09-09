@@ -8,5 +8,5 @@ Monolithic ML pipelines are only possible for batch ML systems, as online system
 ![Architecture Graph](https://assets.website-files.com/618399cd49d125734c8dec95/6436a3b6eec4f7469587eaf7_Ifh1YS936z_Z1pCZrffbpz4W95K8vc-_jJvQQReUfqp1Vp_eutXNyQ4pzgVTZRq67NZSEvjlJCe4x1R06lMSf6xwhFPWR30wnx1ZQJDkDfUq9MfCeKBJHXAI6f6EtPnqRxfc4Acp-g2ROb4cTx7Tsw.png)
 LLM Tags:  
 #monolithicpipelines
-LLM Tags:  #mlpipeline #monolithicpipelines #trainingpipeline #inferencepipeline #modelregistry #feature-pipeline
-LLM Tags:  #monolithicpipelines, #mlpipeline, #on-lineinference, #feature-store
+LLM Tags:  #ml-pipeline #monolithicpipelines #training-pipeline #inference-pipeline #model-registry #feature-pipeline
+LLM Tags:  #monolithicpipelines, #ml-pipeline, #online-inference, #feature-store

@@ -36,6 +36,6 @@ X = pd.concat([pd.DataFrame(encoded_features.toarray()), pd.DataFrame(scaled_fea
 Here the data contains both categorical and numerical features. The categorical features are one-hot encoded using scikit-learn's [**OneHotEncoder**](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html), which creates a binary representation of each stringified category. The numerical features are standardized using scikit-learn's [**StandardScaler**](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html), which subtracts the mean and divides by the standard deviation. Finally, the encoded and scaled features are concatenated into a single feature matrix X, which can be used as input to a machine learning model.
 
 
-LLM Tags:  #data-compatibility, #modelperformance, #feature-encoding
+LLM Tags:  #data-compatibility, #model-performance, #feature-encoding
 LLM Tags:  #categorical-encoding, #numericalencoding
 LLM Tags:  #ml #categorical-data #numerical_data

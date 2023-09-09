@@ -24,4 +24,4 @@ LLM Tags:  #mlops #ml #testing #versioning
 LLM Tags:  #ml #testing #mlsystems
 LLM Tags:  #mlops #devops #versioning #dependencymanagement
 LLM Tags:  #mlops #devopstesting #data-validation #modelvalidation #pipelinestruc
-LLM Tags:  #mlpipeline #hopsworksai #versioning #trainingpipeline #inferencepipeline #feature-store #modelregistry
+LLM Tags:  #ml-pipeline #hopsworksai #versioning #training-pipeline #inference-pipeline #feature-store #model-registry

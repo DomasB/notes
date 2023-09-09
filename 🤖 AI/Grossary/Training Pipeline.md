@@ -22,6 +22,6 @@ Using a feature store in the training pipeline helps to achieve consistency acro
 
 
 
-LLM Tags:  #trainingpipeline #mltools #data-processing
-LLM Tags:  #ml #modeltraining #hyperparameter #registration
+LLM Tags:  #training-pipeline #mltools #data-processing
+LLM Tags:  #ml #training #hyperparameter #registration
 LLM Tags:  #feature-engineering #pipeline #consistency #reproducibility
