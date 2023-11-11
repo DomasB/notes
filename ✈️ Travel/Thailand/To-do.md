@@ -1,0 +1,8 @@
+- [ ] Train/plain tickets Bangkok - Chiang Mai
+- [ ] Stay in Chiang Mai
+- [x] Plain tickets Chiang Mai - Surat Thani  
+- [ ] Stay in Koh Tao
+- [ ] Stay in Koh Pha Ngan
+- [ ] Stay in Khao Sok National park
+- [x] Plain tickets Surat Thani - Bangkok
+- [x] Stay in Bangkok

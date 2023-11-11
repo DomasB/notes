@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e2fb6cc5a670ae6",
+            "id": "3afefb4334021204",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,6 +146,16 @@
                 "file": "✈️ Travel/Thailand/Plan.md"
               }
             }
+          },
+          {
+            "id": "c021caa0c0ab449f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -163,8 +173,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e2fb6cc5a670ae6",
+  "active": "3afefb4334021204",
   "lastOpenFiles": [
+    "✈️ Travel/Thailand/Doi Inthanon National Park.md",
+    "✈️ Travel/Thailand/Chiang Rai.md",
+    "✈️ Travel/Thailand/Khao Sok National park.md",
+    "✈️ Travel/Thailand/Koh Pha Ngan.md",
+    "✈️ Travel/Thailand/Plan.md",
+    "✈️ Travel/Thailand/Chiang Mai.md",
+    "✈️ Travel/Thailand/Bangkok.md",
+    "✈️ Travel/Thailand/Ayutthaya.md",
+    "✈️ Travel/Thailand/To-do.md",
+    "✈️ Travel/Thailand/Koh Tao.md",
+    "✈️ Travel/Thailand/Food.md",
     "🤖 AI/Grossary/Model Registry.md",
     "🤖 AI/Grossary/MVPS.md",
     "🤖 AI/Grossary/Model Performance.md",
@@ -181,18 +202,7 @@
     "🤖 AI/Grossary/In Context Learning (ICL).md",
     "🤖 AI/Grossary/Latent Space.md",
     "🤖 AI/Grossary/LLM Code Interpreter.md",
-    "🤖 AI/Grossary/SQL UDF in Python.md",
-    "🤖 AI/Grossary/Streaming Feature Pipeline.md",
-    "🤖 AI/Grossary/Skew.md",
-    "🤖 AI/Grossary/CI_CD for MLOps.md",
-    "🤖 AI/Grossary/Feature Function.md",
-    "🤖 AI/Grossary/Pandas UDF.md",
-    "🤖 AI/Grossary/Batch Inference Pipeline.md",
     "Pasted image 20230903231337.png",
-    "🤖 AI/Grossary/Backpressure for feature stores.md",
-    "🤖 AI/Grossary/Feature Pipeline.md",
-    "🤖 AI/Grossary/Feature Freshness.md",
-    "🤖 AI/Grossary/Upstream.md",
     "Pasted image 20230903213537.png",
     "✈️ Travel/Thailand",
     "✈️ Travel",

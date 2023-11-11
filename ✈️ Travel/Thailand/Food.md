@@ -1,0 +1,10 @@
+- Spicy shrimp soup
+- Spicy green papaya salad
+- Red curry
+- Thai-style fried noodles
+- Fried rice
+-  Khao Pad Sapparod (Pineapple Fried Rice)
+- Khao Niao Mamuang (Mango Sticky Rice)
+- Tod Mun Pla (Thai Fish Cake)
+- Banana Roti (Banana Pancake)
+- Gaeng Som (Sour and Spicy Fish Curry)

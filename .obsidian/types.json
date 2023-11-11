@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "type": "text"
+    "type": "text",
+    "Dates": "date",
+    "From": "date",
+    "To": "date"
   }
 }
