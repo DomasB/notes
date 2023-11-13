@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✈️ Travel/Thailand/Plan.md",
+                "file": "🤖 AI/GPTs and AI assistants/Thinking about AI-first APIs.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1898a6bad706f75c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✈️ Travel/Thailand/Plan.md",
+                "file": "🤖 AI/GPTs and AI assistants/Thinking about AI-first APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✈️ Travel/Thailand/Plan.md",
+                "file": "🤖 AI/GPTs and AI assistants/Thinking about AI-first APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✈️ Travel/Thailand/Plan.md"
+                "file": "🤖 AI/GPTs and AI assistants/Thinking about AI-first APIs.md"
               }
             }
           },
@@ -143,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "✈️ Travel/Thailand/Plan.md"
+                "file": "🤖 AI/GPTs and AI assistants/Thinking about AI-first APIs.md"
               }
             }
           },
@@ -173,13 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3afefb4334021204",
+  "active": "1898a6bad706f75c",
   "lastOpenFiles": [
+    "🤖 AI/GPTs and AI assistants",
+    "✈️ Travel/Thailand/Plan.md",
+    "🤖 AI/GPTs and AI assistants/Thinking about AI-first APIs.md",
     "✈️ Travel/Thailand/Doi Inthanon National Park.md",
     "✈️ Travel/Thailand/Chiang Rai.md",
     "✈️ Travel/Thailand/Khao Sok National park.md",
     "✈️ Travel/Thailand/Koh Pha Ngan.md",
-    "✈️ Travel/Thailand/Plan.md",
     "✈️ Travel/Thailand/Chiang Mai.md",
     "✈️ Travel/Thailand/Bangkok.md",
     "✈️ Travel/Thailand/Ayutthaya.md",
@@ -200,8 +213,6 @@
     "🤖 AI/Grossary/Feature Service.md",
     "🤖 AI/Grossary/Feature Store.md",
     "🤖 AI/Grossary/In Context Learning (ICL).md",
-    "🤖 AI/Grossary/Latent Space.md",
-    "🤖 AI/Grossary/LLM Code Interpreter.md",
     "Pasted image 20230903231337.png",
     "Pasted image 20230903213537.png",
     "✈️ Travel/Thailand",
