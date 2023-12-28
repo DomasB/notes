@@ -3,7 +3,7 @@
 ### Day 2: Jan 25 (Thu) - [[Bangkok]]
 
 - 10:00 Arrival to Bangkok
-- Flight to [[Chiang Mai]]
+- 14:25 Flight to [[Chiang Mai]]
 - Relaxation, massage, street food
 
 ### Day 3: Jan 26 (Fri) - Exploring [[Chiang Mai]]
