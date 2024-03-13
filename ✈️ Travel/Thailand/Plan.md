@@ -5,6 +5,7 @@
 - 10:00 Arrival to Bangkok
 - 14:25 Flight to [[Chiang Mai]]
 - Relaxation, massage, street food
+- Phra Pok Klao Rd Soi 4 https://www.airbnb.lt/rooms/53404872?source_impression_id=p3_1704538752_c5PgGcuw3b%2FqPJAv
 
 ### Day 3: Jan 26 (Fri) - Exploring [[Chiang Mai]]
 
@@ -23,26 +24,27 @@
 
 - Golden Triangle/ Laos!
 
-### Day 7: Jan 30 (Tue) - [[Koh Pha Ngan]]
+### Day 7: Jan 30 (Tue) - [[Khao Sok National park|Khao Sok]] National park
 
-- Flight from Chiang Mai to Surat Thani - Air Asia 11:35 -13:20. Booking no.  XYY5JA
-- Bus/Taxi from airport to Donsak Pier Surat Thani. Bus + Ferry [1](https://www.rajaferryport.com/) [2](https://www.seatranferry.com/)
-- Ferry to Koh Tao or Koh Pha Ngan
-- Dream party @ [Dream Forest](https://www.facebook.com/dreamforest.kpg)
-### Day 8: Jan 31 (Wed) -  [[Koh Tao]]
-Ferry Koh Pha Ngan - Koh Tao [1](https://12go.asia/en/travel/koh-phangan/koh-tao?date=2024-01-31&people=2&direction=forward)
+- Flight from Chiang Mai to Surat Thani - Air Asia 10:20 -12:15. Booking no.  XYY5JA
+- Taxi to Khao Sok
+- https://khaosok-smiley.com/
+### Day 8: Jan 31 (Wed) -  [[Khao Sok National park|Khao Sok]] National park
 
+
+
+### Day 9: Feb 1 (Thu) -  [[Khao Sok National park|Khao Sok]] National park
+ ** 22:00 pm** — Night boat. Surat Thani Night Boat Pier, Surat Thani Town - Koh Tao Nigth Boat Pier
+### Day 10: Feb 2 (Fri) - [[Koh Tao]]
+Arrive 6:00
 - Snorkeling, Diving, Climbing, Yoga, Areal
-### Day 9: Feb 1 (Thu) - [[Koh Tao]]
+- Sensi Paradise Beach Resort https://www.airbnb.lt/book/confirmation/stays/HMSETESKFM
 
-[Night ferry to Surat Thani](https://12go.asia/en/trip-page/TH0CnS0BDz6xpf0OD03SPY6d/2024-02-01-21-00-00?position=2&fromBestOptions=1&isRecommended=1) + [bus next day to Khao Sok](https://12go.asia/en/trip-page/TH01Lq02B402vv0Rb03SPY6d/2024-02-02-08-00-00?position=1&fromBestOptions=1&isRecommended=1)
-### Day 10: Feb 2 (Fri) - [[Khao Sok National park|Khao Sok]] National park
-
-
-### Day 11: Feb 3 (Sat) - [[Khao Sok National park|Khao Sok]] National park
-
+### Day 11: Feb 3 (Sat) -[[Koh Tao]]
+**21:00 pm** — Night boat. Koh Tao Booking Center Office - Surat Thani Night Boat Pier, Surat Thani Town
 ### Day 12: Feb 4 (Sun) - [[Bangkok]]
-
+Arrive 5:00
+11:45 Surat Thani International Airport (URT)  - 13:00 Suvarnabhumi Airport (BKK) VZ 351
 Taling Chan Floating Market (8:00 - 17:00 opening hours)
 [Other floating markets](https://www.hotels.com/go/thailand/bangkok-floating-markets)
 
