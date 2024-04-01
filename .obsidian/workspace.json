@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🪴Plants/Alocasia Cuprea.md",
+                "file": "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🪴Plants/Alocasia Cuprea.md",
+                "file": "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🪴Plants/Alocasia Cuprea.md",
+                "file": "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🪴Plants/Alocasia Cuprea.md"
+                "file": "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🪴Plants/Alocasia Cuprea.md"
+                "file": "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md"
               }
             }
           },
@@ -221,14 +221,30 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
   "active": "0285a169c97e3818",
   "lastOpenFiles": [
+    "Omnivore/2024-03-30/The Secret Power of ‘Read It Later’ Apps.md",
+    "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md",
+    "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code… - by Anna Zawadzka - Mar, ....md",
+    "Omnivore/2024-04-01",
+    "✈️ Travel/Thailand/To-do.md",
+    "Omnivore/2024-03-30",
+    "Omnivore",
+    "🪴Plants/Alocasia Black velvet.md",
+    "🪴Plants/Alocasia Cuprea.md",
+    "Pasted image 20240313234652.png",
+    "🪴Plants/Hoya Tricolor.md",
+    "Pasted image 20240313234444.png",
+    "🪴Plants/Philodendron Painted Lady.md",
+    "🪴Plants/Monstera obliqua-leichtlinii.md",
+    "🪴Plants/Hoya wayetii.md",
+    "🪴Plants/Philodendron scandens Brasil.md",
     "🪴Plants/Rhaphidophora Tetrasperma.md",
     "🪴Plants/Pilea Peperomoides.md",
-    "🪴Plants/Alocasia Cuprea.md",
     "2023-09-03.md",
     "🪴Plants/Scindapsus Happy leaf.md",
     "🧑‍💻 Programming/🐍 Python/Exceptions in Python.md",
@@ -246,24 +262,11 @@
     "🤖 AI/Retrieval-Augmented Generation (RAG).md",
     "🤖 AI/RAG/A Deep Dive into Retrieval-Augmented Generation in LLM.md",
     "🤖 AI/AGI/Levels of AGI.md",
-    "🤖 AI/RAG/Retrieval Augmented Generation (RAG) - Enhancing Large Language Models.md",
     "🤖 AI/AGI",
-    "🤖 AI/RAG/When to Use Retrieval Augmented Generation for LLMs.md",
-    "🤖 AI/summary_retrieval_augmented_generation_llm.md",
     "🤖 AI/Unconfirmed 892806.crdownload",
-    "🤖 AI/Prompt engineering.md",
-    "🤖 AI/RAG/Retrieval-Augmented Generation (RAG) by IBM.md",
     "🤖 AI/RAG",
-    "🤖 AI/Grossary/Feature Logic.md",
     "🧑‍💻 Programming/🐍 Python",
-    "🧑‍💻 Programming/Untitled.md",
     "🧑‍💻 Programming",
-    "How to use ChatGPT to summarize an article.md",
-    "🤖 AI/🧾LLMs/LLM padding.md",
-    "♟️Chess/Openings/Caro-Kann Defense.md",
-    "🤖 AI/GPTs and AI assistants",
-    "✈️ Travel/Thailand",
-    "✈️ Travel",
-    "🤖 AI/Grossary/output"
+    "🤖 AI/GPTs and AI assistants"
   ]
 }

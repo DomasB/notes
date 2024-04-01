@@ -1,4 +1,4 @@
-
+![[Pasted image 20240313234444.png]]
 ## Care 
 - 🌞 Bright indirect light
 - 💧 Moderate. Let soil dry between waterings 
