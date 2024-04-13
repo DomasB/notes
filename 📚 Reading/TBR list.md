@@ -1,0 +1,2 @@
+- Superintelligence: Paths, Dangers, Strategies  — Nick Bostrom
+- 9 Out of 10 Climbers Make the Same Mistakes — Dave MacLeod

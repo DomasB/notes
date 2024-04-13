@@ -32,43 +32,19 @@
             }
           },
           {
-            "id": "b34e00c9cf1cd5b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧑‍💻 Programming/🐍 Python/Exceptions in Python.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c5be50ca429a491f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✈️ Travel/Thailand/Plan.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0285a169c97e3818",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md",
+                "file": "📚 Reading/Reading strategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md",
+                "file": "How to use ChatGPT to summarize an article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md",
+                "file": "How to use ChatGPT to summarize an article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md"
+                "file": "How to use ChatGPT to summarize an article.md"
               }
             }
           },
@@ -192,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md"
+                "file": "How to use ChatGPT to summarize an article.md"
               }
             }
           },
@@ -225,10 +201,19 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "0285a169c97e3818",
+  "active": "27a525f3d0a36764",
   "lastOpenFiles": [
-    "Omnivore/2024-03-30/The Secret Power of ‘Read It Later’ Apps.md",
+    "🧑‍💻 Programming/🐍 Python/Exceptions in Python.md",
+    "✈️ Travel/Thailand/Plan.md",
+    "📚 Reading/Reading strategy.md",
+    "📚 Reading/TBR list.md",
+    "Omnivore/2024-04-02/My Reading Philosophy in 17 Guidelines – Tracy Durnell.md",
+    "Omnivore/2024-04-02",
+    "Possible topics.md",
+    "Untitled.md",
+    "📚 Reading",
     "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code….md",
+    "Omnivore/2024-03-30/The Secret Power of ‘Read It Later’ Apps.md",
     "Omnivore/2024-04-01/Pandas- From Messy To Beautiful. This is how to make your pandas code… - by Anna Zawadzka - Mar, ....md",
     "Omnivore/2024-04-01",
     "✈️ Travel/Thailand/To-do.md",
@@ -247,26 +232,17 @@
     "🪴Plants/Pilea Peperomoides.md",
     "2023-09-03.md",
     "🪴Plants/Scindapsus Happy leaf.md",
-    "🧑‍💻 Programming/🐍 Python/Exceptions in Python.md",
-    "Untitled.md",
-    "Possible topics.md",
     "Pasted image 20230903235427.png",
     "Pasted image 20230903231337.png",
     "Pasted image 20230903213537.png",
     "🪴Plants",
-    "✈️ Travel/Thailand/Plan.md",
     "Untitled 1.md",
     "✈️ Travel/Thailand/Khao Sok National park.md",
     "🤖 AI/AGI/Artificial General Intelligence - A DoubleEdged Sword.md",
     "🤖 AI/AGI/Levels of AGI (Article summary).md",
-    "🤖 AI/Retrieval-Augmented Generation (RAG).md",
-    "🤖 AI/RAG/A Deep Dive into Retrieval-Augmented Generation in LLM.md",
-    "🤖 AI/AGI/Levels of AGI.md",
     "🤖 AI/AGI",
     "🤖 AI/Unconfirmed 892806.crdownload",
     "🤖 AI/RAG",
-    "🧑‍💻 Programming/🐍 Python",
-    "🧑‍💻 Programming",
-    "🤖 AI/GPTs and AI assistants"
+    "🧑‍💻 Programming/🐍 Python"
   ]
 }
